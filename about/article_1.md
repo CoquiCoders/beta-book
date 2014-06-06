@@ -1,37 +1,66 @@
-#Coqui Coders
-##Team Puerto Rico.
-We were semi-randomly (we all chose Puerto Rico as a city/place) assigned together to work with the CIO of Puerto Rico within the area of Economic Development.
+#Understanding the problem:
 
-During January we got to know each other, learn about our ways of working, negotiate, negotiate and build a team which we named Coqui Coders. Coqui is the national frog and has been a cultural symbol and national icon. When Puerto Ricans want to express their nationality, they say: "Soy de aquí como el coquí" (I'm as Puerto Rican as the coquí).
 
-photo of illustration of us as coquis
+During February we focus on having some answers to our big challenge around Economic Development. We have been performing lots of interviews, making observations and visits to government offices, participating in user testing sessions and immersing ourselves in the culture.
+Our goal was to scope the project and learn first hand about people and contexts of use.
 
-During February we inmersed ourselves deeply into the culture and specifically into the challenge around Economic Development. We researched a lot. Here's how.
+Here's what we did.
 
-photo of research by the numbers : make it interactive.
+![Image Title](http://cl.ly/image/3N371N3N0G2O/Slides_Infographic.png)
 
-The intense research approach provided us with information to go back to San Francisco and start the ideation process. Not only it provided us with findings and opportunities but mainly gave us enough information to undertstand what was feasible within the fellowship timeframe.
+Let's get more detailed:
 
-photo of ideation process: make it interactive
+Findings/research:
 
-Here's who we are designing for:
+More than 50 benefits and incentives offered by Economic Development agencies to start or promote a business.
 
-Persona: Our audience: Small business owners Pain points: Accessing finance to start or grow their business is a tedious process. Permiting is unpredictable.
+These benefits are managed by different agencies without a interagency system, therefore:
 
-Video of maria and arturo
+a. Users have a hard time understanding the best set of benefits for their case.
 
-image of three main challenges
+b. Government staff have a hard time identifying and delivering the right set of benefits to the public.
 
-*Quotes or audios mentioning this as a challenge*
+Lack of performance management and metrics within agencies. Lack of accountability.
 
-Our approach:
+The validation process to check upon new jobs created is conducted by phone, calling each business on a weekly basis to validate if they fulfilled their compromised goal when asking for a benefit.
 
-negocio 123 - quick win biz wallet
+Lack of integrated IT platform which causes redundant paperwork.
 
-Let the small business owners talk by themeselves.
+Small businesses find it difficult to find and access loans and credits.
 
-story of maria story of arturo
+There is no one clear entry point for businesses to access services and resources.
 
-Why an opportunity?
 
-Fits into the government agenda of the one stop shop SMEs are main business sector in America providing with the biggest ammount of jobs They are hit harder and need support Scalable: Oakland is interested in redeploying it.
+Challenges within the community:
+
+Citizens seem not trust their government because there is a legacy that every four years the new administration starts all over again.
+
+There is a DIY attitude which makes it hard for governments to engage with the community.
+
+
+This is the process we used to define opportunities:
+(we can make this a graphic)
+
+
+1. Collect all of the main observations from each interview, visit, or observation in a google doc with takeaways, folow-up and opportunities.
+
+2. Debrief and analyze each interview individually.
+
+3. Review the findings as a group.
+
+4. Define and prioritize themes and patterns.
+a. Accountability & metrics
+b. Workforce development
+c. Starting/Expanding a business
+
+4. Group discussion on which findings were things we wanted to work on.
+
+5. Define 7 areas of opportunities
+
+6. Voted with the CIO and team, kept three.
+
+
+
+
+
+
