@@ -1,30 +1,36 @@
-# The Spoiled Fruit of Government Incentives
+# Incentives Dying on the Vine
+
+### Business growth and economic development are integrally linked.
+
+When businesses are successful that means jobs, a healthy cashflow in a community, and other fruits of economic growth. Puerto Rico knows this, and legislation at the state and municipal level is aimed at supporting businesses, primarily through the method of **incentives**.
+
+Tax and economic incentives are numerous in Puerto Rico. They are crafted with the advice of economists, business leaders and industry experts with inteligent and clear goals.
+
+Unfortunately, incentives are underutilized because they are **not effectively deployed**. In other words - if few are using them, what good are they doing? **The good intentions of economic incentives often wind up dying on the vine.**
 
 
-It is agreed that when a businesses grows, this activity produces economic growth and employment. Given these benefits the state and municipal governments of Puerto Rico have passed legislation and established agencies with the aim of providing support and incentives directly to growing businesses.
 
-Tax and economic incentives are numerous in Puerto Rico. Their effect is specific and targeted. The incentives are crafted with the advice of economists, business leaders and industry experts with inteligent and clear goals.
+##Obstacles to Incentive Use:
+**1. Users are not finding available incentives**
 
-Despite this, the incentives are underutilized because they are not effectively deployed. They exist as spoiled fruit on the vine of good intentions.
+Small business owners are not sure where to look and typically they receive information about incentives through word of mouth, main government promoted initiatives, or an accountant.
 
----
+**2. Choosing the right incentives**
 
-Ineffective Deployment
-Obstacles to use:
-1. Finding all possible incentives
-2. Getting information about the incentives
-3. Choosing the right inventives
-4. Applying for incetives
-5. Completing the process
-6. Delivery of incentives to recipients
+They don't always have the tools to compare what's right for them based on their business model
+
+**3. Applying for incentives**
+
+Applying for government programs has a bad reputation among business owners who have had painful experiences obtaining permits and paperwork necessary to take advantage of these programs.
+
+**4. Delivery of incentives to recipients**
+
+Even when the process is completed, documents are submitted, and the incentive is approved, many SME owners we spoke with were still waiting for the reimbursement or
 
 
-Overall feeling towards process:
+### Overall feeling towards process: Confusion and Uncertainty
 
-1. Tediuous application process
-2. Confusion and Uncertainty
-
----
+But if incentives are already the main way that the government knows how to reach out to its citizens to support and develop the economy, it was clear to us that incentives and our mission of economic development were integrally linked. The incentives themselves weren't the problem. It's the knowledge-finding and delivery of the results that is the issue.
 
 
 
