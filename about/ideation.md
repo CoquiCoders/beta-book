@@ -16,11 +16,11 @@ Here's who we are designing for:
 ![Image Title]( http://cl.ly/image/1s0r422L3r2D/Personas%20-%20SME.001.jpg)
 
 
-
-Let the small business owners talk for themeselves:
+Let the small business owners talk for themeselves about their main challenges:
 
 
 video maria
+
 
 video arturo
 

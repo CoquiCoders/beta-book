@@ -1,10 +1,21 @@
-# Civic Community
+# Engaging with the community
+
+What Culture Changes Happened in Your City that can be tied to your work?
+
+Events You Participated in or Planned?
+
+New Policies, Standards related to your work?
+
+Skill Shares you conducted?
+
+New linkages within the City or between the City and the community?
 
 
 Brigade:
 
 http://code4puertorico.org/
 
+![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
 
 Workshops:
 
@@ -18,6 +29,21 @@ There was a great discussion about the Lean Method and people's experiences with
 
 Code Across:
 
-Unhackathon
+
+![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
+
+
+Simultaneous Unhackathon:
+
+
+![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
+
 
 National Day of Civic Hacking
+
+
+![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
+
+
+Open data policy:
+

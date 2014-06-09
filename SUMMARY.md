@@ -1,10 +1,12 @@
 # Summary
 
 * [Coqui Coders](about/README.md)
-   * [Into the Field](about/article_1.md)
-   * [In the mood for design](about/ideation.md)
-   * [Sketching ](about/prototype.md)
-   * [Back in the field](about/user_testing.md)
-   * [Building](about/development.md)
-   * [Community engagement](about/civic_community.md)
+   * [Field Research](about/article_1.md)
+   * [Synthesis](about/ideation.md)
+   * [Prototyping](about/prototype.md)
+   * [Hypothesis Verificaiton](about/user_testing.md)
+   * [MVP](about/development.md)
+   * [What´s next](about/next_steps.md)
+   * [Working together](about/civic_community.md)
+   * [Bonus track](about/bonus_track)
 

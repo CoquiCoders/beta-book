@@ -1,7 +1,7 @@
-#Understanding the problem:
+#Understanding the problem
 
 
-During February we focus on having some answers to our big challenge around Economic Development. We have been performing lots of interviews, making observations and visits to government offices, participating in user testing sessions and immersing ourselves in the culture.
+During February we focus on getting some answers to our big challenge around Economic Development. We have been performing lots of interviews, making observations and visiting the government offices, participating in user testing sessions and immersing ourselves in the culture.
 Our goal was to scope the project and learn first hand about people and contexts of use.
 
 Here's what we did.
@@ -28,7 +28,7 @@ Lack of integrated IT platform which causes redundant paperwork.
 
 Small businesses find it difficult to find and access loans and credits.
 
-There is no one clear entry point for businesses to access services and resources.
+There is no clear point of entry for businesses to access services and resources.
 
 
 Challenges within the community:
