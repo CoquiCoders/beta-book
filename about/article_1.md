@@ -10,9 +10,9 @@ Here's what we did.
 
 Let's get more detailed:
 
-Findings/research:
+**Findings/research:**
 
-More than 50 benefits and incentives offered by Economic Development agencies to start or promote a business.
+More than 50+ benefits and incentives offered by Economic Development agencies to start or promote a business.
 
 These benefits are managed by different agencies without a interagency system, therefore:
 

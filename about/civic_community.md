@@ -1,4 +1,11 @@
-# Engaging with the community
+#Community Engagement
+
+
+On February Imanol, Stephanie and Alberto launched the presentation of the Puerto Rico Brigade.
+
+Participants included people from the University of Puerto Rico, the government and the hacker community, and they commited to meet every Tuesday in Piloto 151, a co-working space.
+
+Andres Colón, from the CIO office, offered to be the nexus between the community and the Brigade.
 
 What Culture Changes Happened in Your City that can be tied to your work?
 
@@ -46,4 +53,3 @@ National Day of Civic Hacking
 
 
 Open data policy:
-

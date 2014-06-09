@@ -8,8 +8,7 @@ The intense research approach provided us with information to go back to San Fra
 
 
 
-#
-Here's who we are designing for:
+###Here's who we are designing for:
 
 
 
@@ -18,11 +17,15 @@ Here's who we are designing for:
 
 Let the small business owners talk for themeselves about their main challenges:
 
+Maria and Hector, from Destilería Coqui, a moonshine.
 
-video maria
+<iframe width="560" height="315" src="//www.youtube.com/embed/fiICKbemoJ0" frameborder="0" allowfullscreen></iframe>
 
 
-video arturo
+Arturo Lopez, from Huerto Isleño, a local lettuce business.
+
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/fiICKbemoJ0" frameborder="0" allowfullscreen></iframe>
 
 
 

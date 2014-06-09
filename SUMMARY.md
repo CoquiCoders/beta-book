@@ -8,5 +8,5 @@
    * [MVP](about/development.md)
    * [What´s next](about/next_steps.md)
    * [Working together](about/civic_community.md)
-   * [Bonus track](about/bonus_track)
+   * [Bonus track](about/bonus_track.md)
 

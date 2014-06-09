@@ -15,9 +15,13 @@ Maksim Pecherskiy - Developer
 
 We come from different backgrounds and discplines.
 We code for America for multiple reasons.
+
 Max codes for America to ....
+
 Clara codes for America because she wants to expose people in government to new possibilities by showing that institutions and systems are social constructions that can be organized differently.
+
 Ainsley codes for America becasue ...
+
 Giancarlo applied to Code for America because...
 
 
@@ -31,14 +35,10 @@ Coqui is the national frog and has been a cultural symbol and national icon of P
 
 We structured our report trying to answer three main questions:
 
-Why Biz Wallet?
-How did we built it?
-What is it?
+**Why** Biz Wallet?
+
+**How** did we built it?
+
+**What** is it?
 
 
-
-Do This:
-
-`![Image Title](http://somesite.com/image.jpg)`
-
-![Coqui](http://th02.deviantart.net/fs71/PRE/f/2013/243/c/7/the_coqui_rico_by_mavericktears-d6kguqw.jpg)

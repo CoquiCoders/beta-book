@@ -8,13 +8,11 @@ Tax and economic incentives are numerous in Puerto Rico. Their effect is specifi
 Despite this, the incentives are underutilized because they are not effectively deployed. They exist as spoiled fruit on the vine of good intentions.
 
 ---
-
-Ineffective Deployment
-Obstacles to use:
+Ineffective Deployment on each of these steps:
 1. Finding all possible incentives
 2. Getting information about the incentives
-3. Choosing the right inventives
-4. Applying for incetives
+3. Choosing the right incentives
+4. Applying for incentives
 5. Completing the process
 6. Delivery of incentives to recipients
 
