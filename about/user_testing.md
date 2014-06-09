@@ -27,7 +27,6 @@ User verification:
 ![Image Title](http://cl.ly/image/2Q1X2616391n/IMG_4040.JPG)
 
 
-
 We had to make decisions with the information we've collected during our second visit to the island.
 We started charting our course forward, moving from customer development to product development as fast as possible to build the MVP and test it back.
 

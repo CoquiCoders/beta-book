@@ -8,8 +8,6 @@ Tax and economic incentives are numerous in Puerto Rico. They are crafted with t
 
 Unfortunately, incentives are underutilized because they are **not effectively deployed**. In other words - if few are using them, what good are they doing? **The good intentions of economic incentives often wind up dying on the vine.**
 
-
-
 ##Obstacles to Incentive Use:
 **1. Users are not finding available incentives**
 

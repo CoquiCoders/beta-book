@@ -4,9 +4,9 @@
 Biz Walett is a web-based tool to improve awareness of financial resources available to small businesses.
 The goal is to make it easier for small business owners to access finance.
 
-How does it fit into the government agenda?
+How does this fit into the Econonic Development agenda for Puerto Rico?
 
-1. Fits into the government one-stop-shop
+1. Fits into the government one-stop-shop initiative
 
 ![Image Title](http://cl.ly/image/2F1G2a043B1z/slides_One_Stop_Shoppe.png)
 
