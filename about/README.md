@@ -29,6 +29,6 @@ During January we got to know each other, learned about our ways of working, abs
 
 **The coqui is a native species to Puerto Rico** and has been their cultural symbol and national icon. When Puerto Ricans want to express their nationality, they say: *"Soy de aquí como el coquí!"* (I'm from here like the coquí!).
 
-And so - we became the Coqui Team and never looked back.
+And so - we became the Coqui Team.
 
 

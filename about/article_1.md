@@ -61,12 +61,11 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 We went back to San Francisco with the following user stories that defined the problem areas we wanted to address:
 
-**As a citizen entrepreneur I don’t know where to start, what to do next, and what support is available to me.**
+As a **citizen entrepreneur** I don’t know where to start and what **support** is available to me.
 
-**As a proven and successful business I don't know how and where to expand?**
+As a **successful business owner** I don't know how and where to **expand?**
 
-**As a new investor I don’t have sufficient data to make a choice about investing in PR (vs other places) and where.**
-
+As a **new investor** I don’t have sufficient data to make a choice about **investing in Puerto Rico.**
 
 
 
