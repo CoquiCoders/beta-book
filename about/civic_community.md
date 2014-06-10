@@ -1,12 +1,6 @@
 #Community Engagement
 
 
-On February Imanol, Stephanie and Alberto launched the presentation of the Puerto Rico Brigade.
-
-Participants included people from the University of Puerto Rico, the government and the hacker community, and they commited to meet every Tuesday in Piloto 151, a co-working space.
-
-Andres Colón, from the CIO office, offered to be the nexus between the community and the Brigade.
-
 What Culture Changes Happened in Your City that can be tied to your work?
 
 Events You Participated in or Planned?
@@ -16,13 +10,18 @@ New Policies, Standards related to your work?
 Skill Shares you conducted?
 
 New linkages within the City or between the City and the community?
+On February Imanol, Stephanie and Alberto launched the presentation of the Puerto Rico Brigade.
 
+Participants included people from the University of Puerto Rico, the government and the hacker community, and they commited to meet every Tuesday in Piloto 151, a co-working space.
 
-Brigade:
+Andres Colón, from the CIO office, offered to be the nexus between the community and the Brigade.
+
 
 http://code4puertorico.org/
 
 ![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
+
+---
 
 Workshops:
 
@@ -34,17 +33,20 @@ The group in attendance ranged from developers working for a fully-operational S
 
 There was a great discussion about the Lean Method and people's experiences with its application, as well as a lot of great knowledge sharing after the formal talks had concluded. It was a really casual evening, but a great occasion for us to get to know and interact with the hacker/design/tech community here in San Juan as well as swap info and links between like minds.
 
+---
 Code Across:
 
 
 ![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
 
 
+---
 Simultaneous Unhackathon:
 
 
 ![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
 
+---
 
 National Day of Civic Hacking
 
@@ -52,4 +54,4 @@ National Day of Civic Hacking
 ![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
 
 
-Open data policy:
+
