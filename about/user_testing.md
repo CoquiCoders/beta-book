@@ -1,22 +1,19 @@
 # Interacting with prototypes
 
-We performed user testing with small business owners.
+In April and May we user tested the BizWallet prototypes with small business owners.
 
-We wanted to learn if the value proposition:
+We wanted to learn if BizWallet's value proposition:
 
-Solves the pain points? Adds value? If there is a problem/solution fit?
-
-Addresses the right audience?
-
-Proposes an appealing user flow? If it is engaging, useful, complete?
-
-Has accessible content? Provides with all the resources needed?
-
-Looks good?
-
-Engage the user to be notify when launched?
-
-Is it something they will use and recommend?
+* Solves our user pain points?
+* Adds any value to the existing state of things?
+* Created a good problem/solution fit?
+* Addressed the right audience?
+* Presented an appealing user flow?
+* Had an engaging/useful/complete user experience?
+* Has accessible content?
+* Provides all the resources needed?
+* Looks good?
+* Presents something they will use and recommend?
 
 ---
 User verification:
@@ -26,14 +23,16 @@ User verification:
 
 ![Image Title](http://cl.ly/image/2Q1X2616391n/IMG_4040.JPG)
 
+From our [x number of] interviews we validated our hypotheses about the issues that BizWallet would address and the users it would serve. We got great feedback and a great reception to the product.
 
-We had to make decisions with the information we've collected during our second visit to the island.
-We started charting our course forward, moving from customer development to product development as fast as possible to build the MVP and test it back.
+**Many testers were delighted** at the experience and the prospect of having a single place where they could find financial and support resources for their small businesses.
 
-We know the MVP (Minimum Viable Product) we want to build is a streamline search process that delivers real, customized report of resources available to a given business owner.
+###Yes, and...
 
-It's hard to hear these stories and not want to fix even more. Once we've streamlined the discovery process, what else can we help with? It feels weird to think about making the first part easy and leave our users facing the same complex application process as usual. The application process itself is very different according to which agency (or municipality) we're dealing with, so it's not a simple next-step feature. And we don't want to try to scope out too much and go down in flames trying to complete a mammoth product.
+We knew the MVP (Minimum Viable Product) we wanted to build is a **streamlined search process that delivers real, customized report of resources available to a given business owner**.
 
-So our next step is to define what we're going to try to build. That may mean scoping out implementation phases and dividing into "Must-haves" and "Good-to-have."
+However, in learning about the business owner's journey, **it's hard not to want to fix even more.** It felt wrong to think about making the discovery part easy and leave our users facing the same complex application process as usual.
 
+The features built around streamlining and supporting the application process to the incentives we present is still something we want to be very careful with. We know that trying to take on too much can kill a project and dillute its effectiveness.
 
+However, we really believe this is a necessary aspect of BizWallet and we understand it will take careful research and understanding of a new user persona - the agency employee receiving these applications - in order to design and build this part successfully.

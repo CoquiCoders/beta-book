@@ -6,9 +6,9 @@
    * [Prototyping](about/prototype.md)
        * [Negocio 123](about/negocio_123.md)
        * [BizWallet](about/prototyping_bizwallet.md)
-   * [Hypothesis Verificaiton](about/user_testing.md)
-   * [MVP](about/development.md)
+   * [Hypothesis Verification](about/user_testing.md)
+   * [Collaborating with Government](about/development.md)
+   * [Working with the Community](about/civic_community.md)
    * [What´s next](about/next_steps.md)
-   * [Working together](about/civic_community.md)
    * [Bonus track](about/bonus_track.md)
 
