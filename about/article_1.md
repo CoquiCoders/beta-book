@@ -1,7 +1,7 @@
-#Understanding the problem
+#Understanding the Context of Economic Development
 
 
-During February we focused on getting some answers to our big challenge around **Economic Development**. We performed lots of interviews, observed and visited different economic development government offices, participated in user testing sessions and immersed ourselves in the culture.
+During February we focused on getting some answers to our big challenge: **Economic Development**. We performed interviews, observed and visited different economic development government offices, participated in user testing sessions and immersed ourselves in the culture of Puerto Rico and the existing Economic Development initiatives.
 
 Our goal was to scope the project and learn first hand about people and contexts of use.
 
@@ -59,13 +59,11 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 **7.** Voted with the CIO and team, kept three.
 
-We went back to San Francisco with the following user stories that defined the problem areas we wanted to address:
+We went back to San Francisco with two user stories that defined the problem area we wanted to address:
 
-As a **citizen entrepreneur** I don’t know where to start and what **support** is available to me.
+As an **entrepreneur** I don’t know where to start and what **support** is available to me.
 
 As a **successful business owner** I don't know how and where to **expand?**
-
-As a **new investor** I don’t have sufficient data to make a choice about **investing in Puerto Rico.**
 
 
 

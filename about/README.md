@@ -23,8 +23,6 @@
 
 ###Coqui Origins
 
-We were semi-randomly assigned together to work with the CIO of Puerto Rico within the area of Economic Development. "Semi" because we all chose Puerto Rico as a city/place to work with, but we know many other people did as well so there was a lot of luck involved in our pairing.
-
 During January we got to know each other, learned about our ways of working, absorbed as much as we could to prepare us for February residency and the year ahead, and built a team which we named **Coqui Coders**.
 
 **The coqui is a native species to Puerto Rico** and has been their cultural symbol and national icon. When Puerto Ricans want to express their nationality, they say: *"Soy de aquí como el coquí!"* (I'm from here like the coquí!).

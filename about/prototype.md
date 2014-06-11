@@ -1,8 +1,6 @@
-#Creating visible experiences
+#Designing for our users
 
-
-
-Once we defined our user, we were able to start envisioning projects that addressed their specific pain points.
+Once we defined our user, we were able to start designing around their pain points.
 
 The main things that plagued our target audience (small and medium-sized business owners) were:
 

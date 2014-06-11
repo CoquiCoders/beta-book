@@ -1,27 +1,4 @@
-# Interacting with prototypes
-
-In April and May we user tested the BizWallet prototypes with small business owners.
-
-We wanted to learn if BizWallet's value proposition:
-
-* Solves our user pain points?
-* Adds any value to the existing state of things?
-* Created a good problem/solution fit?
-* Addressed the right audience?
-* Presented an appealing user flow?
-* Had an engaging/useful/complete user experience?
-* Has accessible content?
-* Provides all the resources needed?
-* Looks good?
-* Presents something they will use and recommend?
-
----
-User verification:
-
-![Image Title](http://cl.ly/image/0g33321R2U0J/IMG_4063.JPG)
-
-
-![Image Title](http://cl.ly/image/2Q1X2616391n/IMG_4040.JPG)
+#User verification
 
 From our 10 interviews we validated our hypotheses about the issues that BizWallet would address and the users it would serve. We got great feedback and a great reception to the product.
 
@@ -31,8 +8,8 @@ From our 10 interviews we validated our hypotheses about the issues that BizWall
 
 We knew the MVP (Minimum Viable Product) we wanted to build is a **streamlined search process that delivers real, customized report of resources available to a given business owner**.
 
-However, in learning about the business owner's journey, **it's hard not to want to fix even more.** It felt wrong to think about making the discovery part easy and leave our users facing the same complex application process as usual.
+[MVP](http://biz-finance-123.webflow.com/).
 
-The features built around streamlining and supporting the application process to the incentives we present is still something we want to be very careful with. We know that trying to take on too much can kill a project and dillute its effectiveness.
+![Image Title](http://cl.ly/image/2A2U071c0I1T/short-lived-webflow_com-2.12-cf877eccf987c88179552d850982197fc95adf1d.png)
 
-However, we really believe this is a necessary aspect of BizWallet and we understand it will take careful research and understanding of a new user persona - the agency employee receiving these applications - in order to design and build this part successfully.
+In learning about the business owner's journey, **it's hard not to want to fix even more.** It felt wrong to think about making the discovery part easy and leave our users facing the same complex application process as usual. After defining our MVP, we began planning second-level features that support the submission of applications to the various government agencies and banks whose programs we highlight in the app.
