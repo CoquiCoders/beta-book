@@ -1,4 +1,4 @@
-# Incentives Dying on the Vine
+# Inaccessible Incentives
 
 ### Business growth and economic development are integrally linked.
 
@@ -7,7 +7,6 @@ When businesses are successful that means jobs, a healthy cash flow in a communi
 Tax and economic incentives are numerous in Puerto Rico. They are crafted with the advice of economists, business leaders and industry experts with intelligent and clear goals.
 
 Unfortunately, incentives are underutilized because they are **not effectively deployed**. In other words - if few are not using them, what good are they doing? **The good intentions of economic incentives often wind up dying on the vine.**
-
 
 
 ##Obstacles to Incentive Use:
@@ -28,7 +27,7 @@ Applying for government programs has a bad reputation among business owners who 
 Even when the process is completed, documents are submitted, and the incentive is approved, many SME owners we spoke with were still waiting for the reimbursement or
 
 
-### Overall feeling towards process: Confusion and Uncertainty
+## Overall feeling towards process: Confusion and Uncertainty
 
 But if incentives are already the main way that the government knows how to reach out to its citizens to support and develop the economy, it was clear to us that incentives and our mission of economic development were integrally linked. **The incentives  weren't the problem.** It's the knowledge-finding and delivery of the results that is the issue.
 

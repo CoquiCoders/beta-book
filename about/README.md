@@ -11,7 +11,7 @@
 ![Image Title](http://cl.ly/image/2n0O3E3p3v1J/IMG_7362.JPG.jpeg)
 
 
-###Why We Are Coding for America:
+##Why We Are Coding for America:
 
 **Max** codes for America because he remembers the experience of his family as immigrants to the United States and what it was like to navigate government services. Now with his coding skills he wants to help make government work better for citizens.
 
@@ -21,12 +21,12 @@
 
 **Giancarlo** applied to Code for America because he  believes in what CfA stood for and represented, and thought it was a great veihcile to deliver not only a solution to benefit our citizens, but to push forward as a 'very much needed' agent of change in our tech culture.
 
-###Coqui Origins
+##Coqui Origins
 
 During January we got to know each other, learned about our ways of working, absorbed as much as we could to prepare us for February residency and the year ahead, and built a team which we named **Coqui Coders**.
 
 **The coqui is a native species to Puerto Rico** and has been their cultural symbol and national icon. When Puerto Ricans want to express their nationality, they say: *"Soy de aquí como el coquí!"* (I'm from here like the coquí!).
 
-And so - we became the Coqui Team.
+And so - the Coqui Team was formed.
 
 
