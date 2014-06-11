@@ -17,11 +17,11 @@ As we honed our problem statement, we developed **user personas** to focus our d
 
 Let the small business owners talk for themeselves about their main challenges:
 
-Maria and Hector, from Destilería Coqui, a local pitorro (moonshine) distillery.
+Meet Maria and Hector, from Destilería Coqui, a local pitorro (moonshine) distillery.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/UYbB529ZkRw" frameborder="0" allowfullscreen></iframe>
 
-Arturo Lopez, from Huerto Isleño, a local hydroponic lettuce microfarm.
+Meet Arturo Lopez, from Huerto Isleño, a local hydroponic lettuce microfarm.
 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/fiICKbemoJ0" frameborder="0" allowfullscreen></iframe>

@@ -2,6 +2,9 @@
 
 BizWallet addressed the cross-section of difficulty accessing capital to start a business and the lack of knowledge about resources (financial and otherwise) that would be helpful to a small business owner.
 
+![BizWallet](http://cl.ly/image/2x251W3c231u/Slides_BizWallet_Venn_Fit.png)
+
+
 We prototyped our first version of the MVP (minimum viable product) where businesses will answer a set of questions to receive information on what they qualify for.
 
 At the end, users are presented with a report culled from our back-end of agency and foundation programs of the incentives and resources that they are eligible to take advantage of.

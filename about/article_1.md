@@ -9,7 +9,7 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 ![Image Title](http://cl.ly/image/3N371N3N0G2O/Slides_Infographic.png)
 
-###Themes throughout our research:
+###Findings throughout our research:
 
 * There are **more than 50 benefits and incentives** offered by Economic Development agencies **to start or promote a business**. These benefits are managed by different agencies without a interagency system, therefore:
 
