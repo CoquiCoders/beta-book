@@ -12,4 +12,4 @@ This means incorporating our solution into the government's **one-stop-shop init
 
 We understand that the government is planning to make one place for entrepreneurs to be able to sign on and access their information (**single sign-on**) and then expedite the business permitting process to be only **24 hours**. Then we hope to help them **find resources**, and assist with the **application process**, and then again the government will be responsible for making sure that **incentives are distributed** in a timely manner.
 
-![Image Title](http://cl.ly/image/2A2U071c0I1T/short-lived-webflow_com-2.12-cf877eccf987c88179552d850982197fc95adf1d.png)
+
