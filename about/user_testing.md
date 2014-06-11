@@ -23,7 +23,7 @@ User verification:
 
 ![Image Title](http://cl.ly/image/2Q1X2616391n/IMG_4040.JPG)
 
-From our [x number of] interviews we validated our hypotheses about the issues that BizWallet would address and the users it would serve. We got great feedback and a great reception to the product.
+From our 10 interviews we validated our hypotheses about the issues that BizWallet would address and the users it would serve. We got great feedback and a great reception to the product.
 
 **Many testers were delighted** at the experience and the prospect of having a single place where they could find financial and support resources for their small businesses.
 

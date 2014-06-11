@@ -22,12 +22,12 @@ We have participated in and helped with several events put on by the brigade.
 
 The first was **CodeAcross** on **February 22 - 23**. Over 80 people came during the course of the weekend which culminated with a hack day in Puerto Rico's Senate.
 
-![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
+![Image Title]()
 
-In April, we hosted a simultaneous **UnHackathon for Puerto Rico** in San Francisco and San Juan with [x number of participants] coming together to pitch apps that addressed issues on the island.
+In April, we hosted a simultaneous **UnHackathon for Puerto Rico** in San Francisco and San Juan with 35 participants coming together to pitch apps that addressed issues on the island.
 
-![Image Title](http://cl.ly/image/3g2j323J1U2Q/IMG_0045.JPG)
+![Image Title]()
 
-In May, the brigade put on the **National Day of Civic Hacking** event in Caguas, Puerto Rico where [x number] people came to work on projects such as Caguas' LocalWiki and Puerto Rico Answers.
+In May, the brigade put on the **National Day of Civic Hacking** event in Caguas, Puerto Rico where 40 people came to work on projects such as Caguas' LocalWiki and Puerto Rico Answers.
 
 
