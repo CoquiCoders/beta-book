@@ -12,4 +12,6 @@ We knew the MVP (Minimum Viable Product) we wanted to build is a **streamlined s
 
 ![Image Title](http://cl.ly/image/2A2U071c0I1T/short-lived-webflow_com-2.12-cf877eccf987c88179552d850982197fc95adf1d.png)
 
-In learning about the business owner's journey, **it's hard not to want to fix even more.** It felt wrong to think about making the discovery part easy and leave our users facing the same complex application process as usual. After defining our MVP, we began planning second-level features that support the submission of applications to the various government agencies and banks whose programs we highlight in the app.
+In learning about the business owner's journey, **it's hard not to want to fix even more.** It felt wrong to think about making the discovery part easy and leave our users facing the same complex application process as usual.
+
+After defining our MVP, we began planning second-level features that support the submission of applications to the various government agencies and banks whose programs we highlight in the app.
