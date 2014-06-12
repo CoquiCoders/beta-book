@@ -40,24 +40,7 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 ###While we collected all of this research in February, this is the process we used to filter our findings into actionable paths forward:
 
-
-**1.** Collect all of the main observations from each interview, visit, or observation in a google doc with takeaways, follow-up and opportunities.
-
-**2.** Debrief and analyze each interview individually.
-
-**3.** Review the findings as a group.
-
-**4.** Define and prioritize themes and patterns.
-* Accountability & metrics
-* Workforce development
-* Starting/Expanding a business
-
-
-**5.** Group discussion on which findings were things we wanted to work on.
-
-**6.** Define 7 areas of opportunities
-
-**7.** Voted with the CIO and team, kept three.
+![Image Title](http://cl.ly/image/0g1e3u224233/unnamed.png)
 
 We went back to San Francisco with two user stories that defined the problem area we wanted to address:
 
