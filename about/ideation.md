@@ -22,12 +22,12 @@ Let the small business owners talk for themeselves about their main challenges:
 
 Meet **Maria and Hector**, from Destilería Coqui, a local pitorro (moonshine) distillery.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/UYbB529ZkRw" frameborder="0" allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/97998504" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Meet **Arturo Lopez**, from Huerto Isleño, a local hydroponic lettuce microfarm.
 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/fiICKbemoJ0" frameborder="0" allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/98003994" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
