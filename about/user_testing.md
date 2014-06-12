@@ -8,7 +8,7 @@ From our 10 interviews we validated our hypotheses about the issues that BizWall
 
 We knew the MVP (Minimum Viable Product) we wanted to build is a **streamlined search process that delivers real, customized report of resources available to a given business owner**.
 
-[MVP](http://biz-finance-123.webflow.com/).
+[MVP](http://biz-finance-123.webflow.com/)
 
 ![Image Title](http://cl.ly/image/2A2U071c0I1T/short-lived-webflow_com-2.12-cf877eccf987c88179552d850982197fc95adf1d.png)
 

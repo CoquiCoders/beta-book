@@ -12,16 +12,19 @@ As we honed our problem statement, we developed **user personas** to focus our d
 ###Meet Margarita:
 
 
-
 ![Image Title]( http://cl.ly/image/1s0r422L3r2D/Personas%20-%20SME.001.jpg)
+
+![Image Title]( http://cl.ly/image/372w3Q2V1D3C/unnamed.png)
+
+----
 
 Let the small business owners talk for themeselves about their main challenges:
 
-Meet Maria and Hector, from Destilería Coqui, a local pitorro (moonshine) distillery.
+Meet **Maria and Hector**, from Destilería Coqui, a local pitorro (moonshine) distillery.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/UYbB529ZkRw" frameborder="0" allowfullscreen></iframe>
 
-Meet Arturo Lopez, from Huerto Isleño, a local hydroponic lettuce microfarm.
+Meet **Arturo Lopez**, from Huerto Isleño, a local hydroponic lettuce microfarm.
 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/fiICKbemoJ0" frameborder="0" allowfullscreen></iframe>

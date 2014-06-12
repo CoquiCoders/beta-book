@@ -1,12 +1,12 @@
 # Engaging with the community
 
-One of the most enjoyable parts of our Puerto Rico Code for America Fellowhsip has been interacting with the community through the Code for America Brigade [Code 4 Puerto Rico](http://code4puertorico.org/"Code 4 Puerto Rico")
+One of the most enjoyable parts of our Puerto Rico Code for America Fellowhsip has been interacting with the community through the Code for America Brigade: [Code 4 Puerto Rico](http://code4puertorico.org/"Code 4 Puerto Rico")
 
 In February we were present for the first official kick-off meeting, but it must be said that the Puerto Rico brigade was largely still functioning and all we had to do was show up, participate and share the Code for America love.
 
 # Cultural Shifts
 
-One beautiful change in our city that our brigade captain told us was that as a result of the brigade in San Juan, many communities that once operated separately came together under the banner of the brigade. Active participants from the start-up community, the government, the entrepreneurial community, and just generally techy folks make up the San Juan brigade.
+One beautiful change in our city that our brigade captain told us was that as a result of the brigade in San Juan many communities that once operated separately came together under the banner of the brigade. Active participants from the start-up community, the government, the entrepreneurial community, and just generally techy folks make up the San Juan brigade.
 
 # Skill Shares
 
@@ -30,5 +30,5 @@ In April, we hosted a simultaneous **UnHackathon for Puerto Rico** in San Franci
 
 In May, the brigade put on the **National Day of Civic Hacking** event in Caguas, Puerto Rico where 40 people came to work on projects such as Caguas' LocalWiki and Puerto Rico Answers.
 
-![Image Title](http://cl.ly/image/2s161P1L2N0o/10429259_10152451308363048_4156472403963857296_n.jpg)
+![Image Title](http://cl.ly/image/22260W110D3m/10365528_10152428168258048_8833686552638823947_o.jpg)
 

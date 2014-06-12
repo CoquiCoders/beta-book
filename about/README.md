@@ -19,7 +19,7 @@
 
 **Ainsley** codes for America becasue she believes in using design thinking to solve the complex problems governments face in making life better for their citizens.
 
-**Giancarlo** applied to Code for America because he  believes in what CfA stood for and represented, and thought it was a great veihcile to deliver not only a solution to benefit our citizens, but to push forward as a 'very much needed' agent of change in our tech culture.
+**Giancarlo** applied to Code for America because he  believes in what CfA stood for and represented, and thought it was a great vehicle to deliver not only a solution to benefit our citizens, but to push forward as a 'very much needed' agent of change in our tech culture.
 
 ##Coqui Origins
 
