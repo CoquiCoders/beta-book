@@ -1,4 +1,4 @@
-# What did we do up until now:
+
 
 ![Image Title](http://cl.ly/image/2r1A3l0k0710/unnamed.png)
 

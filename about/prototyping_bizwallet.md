@@ -34,7 +34,6 @@ We wanted to learn if BizWallet's value proposition:
 * Presents something they will use and recommend?
 
 
-![Image Title](http://cl.ly/image/2Q1X2616391n/IMG_4040.JPG)
 
 After incorporating user feedback, we built out our MVP.
 
