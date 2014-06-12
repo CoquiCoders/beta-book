@@ -10,59 +10,25 @@ Yo me quedo en Puerto Rico is live and already hosts more than 90 messages from 
 
 The app has gotten forked by several of the other fellowship teams. It currently lives online at I Love Puerto Rico, and the codebase can be found on GitHub.
 
-*
-Negocio Local
+* Negocio Local
 
 Max write about this
 
-*
-Coqui Song
+* Coqui Song
 
 When we came back from residency, we were inspired to share our experience by writing a song.
 
-**Check it out:**
-
-I’ve never seen a coqui in my life
-
-but I hear him every night.
-
-in the bushes
-
-And we are flying back tonight
-
-without a coqui in our hands
-
-CHORUS:
-(and everybody’s like)
-
-coffee, cigars, tostones y mofongos
-beaches piraguas medallas, bacalaitos
-we don’t care
-we see coqui frogs in our dreams
-
-(and everybody’s like)
-beaches and gangsters in Puerto Rico
-bug bites, sunburns, mananas tristes
-we don’t care
-we see coqui frogs in our dreams.
-
-Oh Mr. Coqui! (coqui)
-We will see you some day!
-we will code a cool new app
-and we will take you to the park
-
-Let me be your buddy! (buddy!)
-We can play in trees all day
-until we’re back (coqui coqui coqui!)
-Let me live that fantasy.
-
+   <iframe src="//player.vimeo.com/video/97990247"    width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p>
 
 * [Humedad San Juan](http://humedadsanjuan.com)
 
+Clara and Ainsley are painfully aware of the humidity on a daily basis because for two ladies with wavy hair - humidity can mean the difference between looking presentable and looking completely disheveled. So - we thought - wouldn’t it be funny if… we gave a reading of the humidity and then showed a corresponding icon of a lady with progressively unruly hair.
+
+![Image Title](http://cl.ly/image/032m0S2M2b0W/humedad-sanjuan.jpg)
 ---
 ### In the news
 
-We have been collecting all our appearance in the news.
+We have been collecting all of CfA appearance in the news.
 
 [Tech Summit Puerto Rico 2014](https://www.evernote.com/shard/s173/sh/aaff544c-7739-4349-a6a4-aeede7d6ecd9/464bd4971505fd165e11bf521be832f1/res/4fbe81a6-e6d1-4f18-9dc5-76bdab1a57ab/El_Nuevo_Dia%282014-06-05%29_page57.pdf)
 
@@ -78,16 +44,16 @@ We have been collecting all our appearance in the news.
 
 [Code Across - 3](http://m.wapa.tv/detalle/noticias/tecnologia/-hackers--toman-el-senado_20131122236287.html)
 
-[Code for America in Puerto rico](http://www.noticel.com/noticia/155396/llega-equipo-especial-de-programadores-para-combatir-la-burocracia-gubernamental.html)
+[Code for America in Puerto Rico](http://www.noticel.com/noticia/155396/llega-equipo-especial-de-programadores-para-combatir-la-burocracia-gubernamental.html)
 
 [Promoting entrepreneurship](http://www.indicepr.com/noticias/2014/02/07/news/15228/impulso-al-empresarismo/
 )
 
 [Creating an economic development tool](http://elvocero.com/crearan-herramienta-desarrollo-economico/)
 
-[Small business project](http://www.elnuevodia.com/encaminanproyectotecnologicoparafomentarelempresarismo-1706227.html)
+[Small Business application](http://www.elnuevodia.com/encaminanproyectotecnologicoparafomentarelempresarismo-1706227.html)
 
-[Developing technology](https://www.evernote.com/shard/s173/sh/aaff544c-7739-4349-a6a4-aeede7d6ecd9/464bd4971505fd165e11bf521be832f1/res/4fa91885-a022-4c8a-b2c7-d6bc7dbfdc20/El_Nuevo_Dia%282014-02-07%29_page51.pdf)
+[Developing new technology](https://www.evernote.com/shard/s173/sh/aaff544c-7739-4349-a6a4-aeede7d6ecd9/464bd4971505fd165e11bf521be832f1/res/4fa91885-a022-4c8a-b2c7-d6bc7dbfdc20/El_Nuevo_Dia%282014-02-07%29_page51.pdf)
 
 [CfA and Puerto Rico](https://www.evernote.com/shard/s173/sh/aaff544c-7739-4349-a6a4-aeede7d6ecd9/464bd4971505fd165e11bf521be832f1/res/072382f0-a41c-4bf2-b7c8-b00312e3bbf4/El_Nuevo_Dia%282014-02-07%29_page49.pdf)
 

@@ -16,7 +16,7 @@ Small business owners are not sure where to look and typically they receive info
 
 **2. Choosing the right incentives**
 
-They don't always have the tools to compare what's right for them based on their business model
+They don't always have the tools to compare what's right for them based on their business model.
 
 **3. Applying for incentives**
 
@@ -24,7 +24,7 @@ Applying for government programs has a bad reputation among business owners who 
 
 **4. Delivery of incentives to recipients**
 
-Even when the process is completed, documents are submitted, and the incentive is approved, many SME owners we spoke with were still waiting for the reimbursement or
+Even when the process is completed, documents are submitted, and the incentive is approved, many SME owners we spoke with were still waiting for the reimbursement or capital.
 
 
 ## Overall feeling towards process: Confusion and Uncertainty

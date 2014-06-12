@@ -7,11 +7,7 @@ BizWallet addressed the cross-section of difficulty accessing capital to start a
 
 We prototyped our first version of the MVP (minimum viable product) where businesses will answer a set of questions to receive information on what they qualify for.
 
-At the end, users are presented with a report culled from our back-end of agency and foundation programs of the incentives and resources that they are eligible to take advantage of.
-
-![Image Title](http://cl.ly/image/361g0f3R2x37/Prototype_AllFronts.jpg)
-
-![Image Title](http://cl.ly/image/2u2M0M1I3t3l/threelandings-1.jpg)
+At the end, users are presented with a report culled from our back-end of agency, bank and foundation programs of the incentives and resources that they are eligible to take advantage of.
 
 ---
 
@@ -19,7 +15,10 @@ At the end, users are presented with a report culled from our back-end of agency
 
 We presented 3 different mockups that varied the user flow and branding.
 
-![Image Title](http://cl.ly/image/2Q1X2616391n/IMG_4040.JPG)
+![Image Title](http://cl.ly/image/361g0f3R2x37/Prototype_AllFronts.jpg)
+
+![Image Title](http://cl.ly/image/2u2M0M1I3t3l/threelandings-1.jpg)
+
 
 We wanted to learn if BizWallet's value proposition:
 
@@ -33,6 +32,9 @@ We wanted to learn if BizWallet's value proposition:
 * Provides all the resources needed?
 * Looks good?
 * Presents something they will use and recommend?
+
+
+![Image Title](http://cl.ly/image/2Q1X2616391n/IMG_4040.JPG)
 
 After incorporating user feedback, we built out our MVP.
 

@@ -1,6 +1,6 @@
 # Aligning with Government Goals
 
-Outside of our project's goals, our priority is to make sure that this fits in and works with the overall Econonic Development agenda for Puerto Rico.
+Outside of our project's goals, our priority is to make sure that this fits in and works with the overall Economic Development agenda for Puerto Rico.
 
 This means incorporating our solution into the government's **one-stop-shop initiative**
 
@@ -13,8 +13,8 @@ With BizWallet, we then help them **find resources**, and assist with the **appl
 
 # Working with Government Partners
 
-We have been lucky to have very strong partnerships with different economic development agencies both in the course of our February research and once we identified our project working with small businesses.
+We have been lucky to have very strong partnerships with different Economic Development agencies both in the course of our February research and once we identified our project working with small businesses.
 
-They have helped us by submitting their programs aimed at supporting SMEs in order to populate the results of BizWallet's search. We have been working with CCE, EDB, Banco Popular, and PRIDCO both with the upper levels of leadership as well as the ground-level employees that handle applications for SME support programs.
+They have helped us by submitting their programs aimed at supporting small businesses in order to populate the results of BizWallet's search. We have been working with CCE (Trade and Export Company of Puerto Rico), Economic Development Bank, Banco Popular, and PRIDCO (Puerto Rico Industrial Development Company) both with the upper levels of leadership as well as the ground-level employees that handle applications for small business support programs.
 
 
