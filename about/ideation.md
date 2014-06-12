@@ -10,7 +10,7 @@ The intense research provided us with contextual knowledge but more importantly 
 
 
 As we honed our problem statement, we developed **user personas** to focus our decision making about the product we would build.
->>>>>>> 7b5a4bae0ff8836f25a299e2b59baaede947ca8a
+7b5a4bae0ff8836f25a299e2b59baaede947ca8a
 
 
 ###Meet Margarita:
