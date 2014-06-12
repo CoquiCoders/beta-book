@@ -48,6 +48,10 @@ As an **entrepreneur** I don’t know where to start and what **support** is ava
 
 As a **successful business owner** I don't know how and where to **expand?**
 
+From the user stories to **opportunities for design.**
+
+The intense research provided us with contextual knowledge but more importantly it gave us enough information to undertstand what was feasible within our fellowship timeframe.
+
 
 
 
