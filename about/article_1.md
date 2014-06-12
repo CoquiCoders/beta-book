@@ -5,11 +5,11 @@ During February we focused on getting some answers to our big challenge: **Econo
 
 Our goal was to scope the project and learn first hand about people and contexts of use.
 
-**Here's what our February looked like:**
+###Here's what our February looked like:
 
 ![Image Title](http://cl.ly/image/3N371N3N0G2O/Slides_Infographic.png)
 
-###Themes throughout our research:
+##Themes throughout our research:
 
 * There are **more than 50 benefits and incentives** offered by Economic Development agencies **to start or promote a business**. These benefits are managed by different agencies without a interagency system, therefore:
 
