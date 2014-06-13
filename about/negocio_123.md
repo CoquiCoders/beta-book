@@ -7,7 +7,7 @@
 
 The complicated permitting process stood out as a huge problem area. Permitting involves an unknown variable of agency office cultures, people and processes. Multiply that complexity by 78 municipalities and it didn't seem realistic for us to take on in one fellowship year.
 
-We envisioned **Negocio 123** as a single place that helps small business owners make informed decisions when establishing their business. We want to tell them:
+We envisioned **Negocio 123** as a single place that helps small business owners make informed decisions when establishing their business. We tell them:
 * how long it takes
 * which agencies are involved for each stage of the process
 * how much it will cost
