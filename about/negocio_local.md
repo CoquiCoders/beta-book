@@ -1,11 +1,13 @@
 # **Negocio Local**
 ## A promotion system for local businesses.
 
-The idea for Negocio Local came out of the [Unhackathon for Puerto Rico](http://coquicoders.org/unhackathon-for-puerto-rico-san-francisco-side) that our team had in conjuction with the PR brigade across two timezones and two places. Puerto Ricans are a highly consumerist culture, however local shopping or supporting local businesses is not very encouraged.
+The idea for Negocio Local came out of the [Unhackathon for Puerto Rico](http://coquicoders.org/unhackathon-for-puerto-rico-san-francisco-side). Puerto Ricans are a highly consumerist culture, however a movement of supporting local businesses is not yet encouraged mainstream.
 
-We came up with an idea and a design for a sticker that a business owner may put on his or her storefront in order to encourage people to shop inside his or her store instead of Macy's or Sears. We knew that unifying local business under a strong brand would have a big impact.  However, we wanted to add a bit of engagement and interaction to the system.
+We came up with an idea and a design for a sticker that a business owner may put on his or her storefront in order to encourage people to shop inside his or her store instead of Macy's or Sears. We knew that unifying local business under a strong brand would have a big impact. However, we wanted to add a bit of engagement and interaction to the system.
 
-We added a call to action on the sticker, the gist being "Text ___ to (787)443-8833 to find out more". Upon receiving the sticker, the business onwer would go on the site, register a short code for their business, and before attaching the sticker to the glass, write the shortcode in the black line.  She would also have the opportunity to determine what the response will be once someone does text the number.  Some business owners may want to simply text a coupon back, while others may want
+We added a call to action on the sticker, the gist being "Text ___ to (787)443-8833 to find out more". Upon receiving the sticker, the business owenr would go on the site, register a short code for their business, and before attaching the sticker to the glass, write the short code in the black line.
+
+She would also have the opportunity to determine what the response will be once someone does text the number. Some business owners may want to simply text a coupon back, while others may want
 to provide some history about their business.
 
 ![Negocio Local Stickers](https://dl.dropboxusercontent.com/u/1009233/Negocio%20Local/2014-04-26%2019.14.59.jpg)

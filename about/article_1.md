@@ -1,7 +1,7 @@
 #Understanding the Context of Economic Development
 
 
-During February we focused on getting some answers to our big challenge: **Economic Development**. We performed interviews, observed and visited different economic development government offices, participated in user testing sessions and immersed ourselves in the culture of Puerto Rico and the existing Economic Development initiatives.
+During February we focused on getting some answers to our big challenge: **Economic Development**. We performed interviews, observed and visited different economic development government offices, participated in user testing sessions and immersed ourselves in the culture of Puerto Rico's economic development initiatives.
 
 Our goal was to scope the project and learn first hand about people and contexts of use.
 
@@ -50,7 +50,7 @@ We went back to San Francisco with two user stories that defined the problem are
 ### As a **successful business owner** I don't know how and where to **expand?**
 
 
-From the user stories to **opportunities for design.**
+From the user stories we moved to **opportunities for design.**
 
 The intense research provided us with contextual knowledge but more importantly it gave us enough information to undertstand what was feasible within our fellowship timeframe.
 
