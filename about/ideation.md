@@ -1,5 +1,5 @@
 
-# Meeting our User
+# Building our User
 
 As we honed our problem statement, we developed a **user persona** to focus our decision making about the product we would build.
 
