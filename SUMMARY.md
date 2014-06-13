@@ -12,6 +12,7 @@
    * [Collaborating with Government](about/development.md)
    * [Working with the Community](about/civic_community.md)
    * [Next Steps](about/next_steps.md)
-   * [Bonus track](about/bonus_track.md)
+   * [Fun Extras](about/bonus_track.md)
    * [In the news](about/in_the_news.md)
+* [Appendix](appendix/README.md)
 

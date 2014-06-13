@@ -1,39 +1,15 @@
-# Inaccessible Incentives
+##New Territory
 
-### Business growth and economic development are integrally linked.
+The typical Code for America model is working with a city, but we have had the privilege and challenge of working with CfA’s first **territory**. This is a large context to understand. Economic Development was our area and Puerto Rico has **15% unemployment** and a strong trend of **young, bright minds leaving** for the mainland but **over 40 incentives** to try to encourage business owners and entrepreneurs to **stay, invest, and grow in Puerto Rico.**
 
-When businesses are successful that means jobs, a healthy cash flow in a community, and other fruits of economic growth. Puerto Rico knows this, and legislation at the state and municipal level is aimed at supporting businesses, primarily through the method of **incentives**.
+In our time there, we have found that although the incentives themselves were appealing, many people were **under-informed and/or confused** about taking advantage of them. We concluded that our product should serve the following users:
+##Entrepreneurs and small business owners that don’t know what support is available to them to start, or grow their business in Puerto Rico.
 
-Tax and economic incentives are numerous in Puerto Rico. They are crafted with the advice of economists, business leaders and industry experts with intelligent and clear goals.
+Around these pain points we built first **Negocio123** as a way-finding tool for the process of opening a business and then our main product **BizWallet** as a way to help our users find, identify, and apply for incentives and resources that they are qualified for and that will help them.
 
-Unfortunately, incentives are underutilized because they are **not effectively deployed**. In other words - if few are not using them, what good are they doing? **The good intentions of economic incentives often wind up dying on the vine.**
+As we user test, we are hearing great things about what these products can do for entrepreneurs on the island and we are excited to continue to work toward meeting this challenge.
 
-
-##Obstacles to Incentive Use:
-**1. Users are not finding available incentives**
-
-Small business owners are not sure where to look and typically they receive information about incentives through word of mouth, main government promoted initiatives, or an accountant.
-
-**2. Choosing the right incentives**
-
-They don't always have the tools to compare what's right for them based on their business model.
-
-**3. Applying for incentives**
-
-Applying for government programs has a bad reputation among business owners who have had painful experiences obtaining permits and paperwork necessary to take advantage of these programs.
-
-**4. Delivery of incentives to recipients**
-
-Even when the process is completed, documents are submitted, and the incentive is approved, many SME owners we spoke with were still waiting for the reimbursement or capital.
-
-
-## Overall feeling towards process: Confusion and Uncertainty
-
-But if incentives are already the main way that the government knows how to reach out to its citizens to support and develop the economy, it was clear to us that incentives and our mission of economic development were integrally linked. **The incentives  weren't the problem.** It's the knowledge-finding and delivery of the results that is the issue.
-
----
-
-## Our solution to small business challenge to access finance.
+##"The app is very friendly and it provides you with what you need to get finance…people don’t know about what is available…I wish it would have existed three years ago” Arturo Lopez, founder of Huerto isleño.
 
 **BizWallet:** A web-based tool to improve awareness of financial resources available to small businesses.
 
