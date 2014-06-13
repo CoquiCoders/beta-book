@@ -33,12 +33,14 @@ But if incentives are already the main way that the government knows how to reac
 
 ---
 
-## Our solution to small business owner's challenge of getting finance.
+## Our solution to small business challenge to access finance.
 
 **BizWallet:** A web-based tool to improve awareness of financial resources available to small businesses.
 
 ![Image Title]( http://cl.ly/image/0S3H3q3o2l2A/logo.jpg)
 
 
+---
 
+![Image Title](http://cl.ly/image/2r1A3l0k0710/unnamed.png)
 

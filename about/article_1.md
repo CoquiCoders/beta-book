@@ -7,7 +7,7 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 ###Here's what our February looked like:
 
-![Image Title](http://cl.ly/image/3N371N3N0G2O/Slides_Infographic.png)
+![Image Title](http://cl.ly/image/0c0p1k2F1H47/unnamed.png)
 
 ##Findings throughout our research:
 
@@ -44,19 +44,17 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 We went back to San Francisco with two user stories that defined the problem area we wanted to address:
 
-#As an **entrepreneur** I don’t know where to start and what **support** is available to me.
+### As an **entrepreneur** I don’t know where to start and what **support** is available to me.
 
-#As a **successful business owner** I don't know how and where to **expand?**
+
+### As a **successful business owner** I don't know how and where to **expand?**
+
 
 From the user stories to **opportunities for design.**
 
 The intense research provided us with contextual knowledge but more importantly it gave us enough information to undertstand what was feasible within our fellowship timeframe.
 
 
----
-
-
-![Image Title](http://cl.ly/image/2r1A3l0k0710/unnamed.png)
 
 
 

@@ -11,7 +11,11 @@ As we honed our problem statement, we developed a **user persona** to focus our 
 
 ---
 
-###This is Mario's journey to starting a bsuiness:
+###This is Mario's journey to starting a business:
 
 ![Image Title]( http://cl.ly/image/3V3U0J0q1j1x/unnamed%20copy%203.png)
 
+
+###Mario's main challenges:
+
+quotes:
