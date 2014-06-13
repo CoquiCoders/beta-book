@@ -8,6 +8,7 @@
    * [Prototyping](about/prototype.md)
        * [Negocio 123](about/negocio_123.md)
        * [BizWallet](about/prototyping_bizwallet.md)
+       * [Negocio Local](about/negocio_local.md)
    * [Hypothesis Verification](about/user_testing.md)
    * [Collaborating with Government](about/development.md)
    * [Working with the Community](about/civic_community.md)
