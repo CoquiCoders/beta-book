@@ -17,10 +17,6 @@ Clara and Ainsley are painfully aware of the humidity on a daily basis because f
 
 ![Image Title](http://cl.ly/image/032m0S2M2b0W/humedad-sanjuan.jpg)
 
-* Negocio Local
-
-Max write about this
-
 
 * Coqui Song
 

@@ -16,6 +16,14 @@ As we honed our problem statement, we developed a **user persona** to focus our 
 ![Image Title]( http://cl.ly/image/3V3U0J0q1j1x/unnamed%20copy%203.png)
 
 
-###Mario's main challenges:
+###Main challenges:
 
-quotes:
+" I could not borrow money from the bank because MY credit was really bad"
+
+
+"One of the things I know based on my experience is that you have to be properly capitalized. It means you have to have enough money to start"
+
+
+"I didn't have the time to look for incentives and I knew it was going to be all this paperwork to file and I didnt have numbers to back it up."
+
+
