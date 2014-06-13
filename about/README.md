@@ -13,11 +13,22 @@
 
 ##Why We Are Coding for America:
 
+![Image Title](http://cl.ly/image/3T2Z0L2F471n/max.png)
+
 **Max** codes for America because he remembers the experience of his family as immigrants to the United States and what it was like to navigate government services. Now with his coding skills he wants to help make government work better for citizens.
+
+
+![Image Title](http://cl.ly/image/0o1A3c240a34/clara.png)
 
 **Clara** codes for America because she wants to expose people in government to new possibilities by showing that institutions and systems are social constructions that can be organized differently.
 
+![Image Title](http://cl.ly/image/1m2A17183k1Z/ainsley.png)
+
+
 **Ainsley** codes for America becasue she believes in using design thinking to solve the complex problems governments face in making life better for their citizens.
+
+![Image Title](http://cl.ly/image/2N2z3C2D0q2S/giancarlo-gonzalez-cio.png)
+
 
 **Giancarlo** applied to Code for America because he  believes in what CfA stood for and represented, and thought it was a great vehicle to deliver not only a solution to benefit our citizens, but to push forward as a 'very much needed' agent of change in our tech culture.
 
