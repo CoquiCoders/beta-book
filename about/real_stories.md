@@ -1,4 +1,4 @@
-# Real life stories
+# Business Owners' stories
 
 
 Meet **Maria and Hector**, from Destilería Coqui, a local pitorro (moonshine) distillery.

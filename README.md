@@ -31,9 +31,13 @@ Even when the process is completed, documents are submitted, and the incentive i
 
 But if incentives are already the main way that the government knows how to reach out to its citizens to support and develop the economy, it was clear to us that incentives and our mission of economic development were integrally linked. **The incentives  weren't the problem.** It's the knowledge-finding and delivery of the results that is the issue.
 
+---
 
+## Our solution to small business owner's challenge of getting finance.
 
+**BizWallet:** A web-based tool to improve awareness of financial resources available to small businesses.
 
+![Image Title]( http://cl.ly/image/0S3H3q3o2l2A/logo.jpg)
 
 
 

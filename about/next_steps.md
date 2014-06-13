@@ -1,8 +1,4 @@
 
-
-![Image Title](http://cl.ly/image/2r1A3l0k0710/unnamed.png)
-
----
 # What's next:
 
 ### BizWallet Goals:

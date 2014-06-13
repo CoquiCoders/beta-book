@@ -53,7 +53,10 @@ From the user stories to **opportunities for design.**
 The intense research provided us with contextual knowledge but more importantly it gave us enough information to undertstand what was feasible within our fellowship timeframe.
 
 
+---
 
+
+![Image Title](http://cl.ly/image/2r1A3l0k0710/unnamed.png)
 
 
 
