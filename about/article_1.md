@@ -44,9 +44,9 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 We went back to San Francisco with two user stories that defined the problem area we wanted to address:
 
-As an **entrepreneur** I don’t know where to start and what **support** is available to me.
+#As an **entrepreneur** I don’t know where to start and what **support** is available to me.
 
-As a **successful business owner** I don't know how and where to **expand?**
+#As a **successful business owner** I don't know how and where to **expand?**
 
 From the user stories to **opportunities for design.**
 
