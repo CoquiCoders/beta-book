@@ -16,7 +16,7 @@ $70 Billion, downgraded to junk status the second day we were there.
 **4. COMPLEX ORGANIZATIONAL STRUCTURE**:
 78 municipalities
 
-We spent a lot of time understand the context around Economic Development. Puerto Rico has a lot of agencies working under the umbrella of Economic Development and it was neccesary to understand how each agency worked on an individual level and as an overall structure.
+We spent a lot of time understanding the context around Economic Development. Puerto Rico has a lot of agencies working under the umbrella of Economic Development and it was neccesary to understand how each agency worked on an individual level and as an overall structure.
 
 It did not take long to pick up on the disconnect between agencies and the complexity of the situation in terms of roles, responsibilities and technology used.
 
