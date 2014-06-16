@@ -7,7 +7,6 @@
    * [Stories from the Field](about/real_stories.md)
    * [Prototyping](about/prototype.md)
        * [Negocio 123](about/negocio_123.md)
-       * [Negocio Local](about/negocio_local.md)
        * [BizWallet](about/prototyping_bizwallet.md)
    * [Hypothesis Verification](about/user_testing.md)
    * [Collaborating with Government](about/development.md)

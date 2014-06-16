@@ -1,6 +1,6 @@
 # Business Journey Stories
 
-The stories we heard about some of the struggles of opening a business in Puerto Rico were so incredible, we wanted to capture them telling it themselves.
+The stories we heard about some of the struggles of opening a business in Puerto Rico were so incredible that we wanted the business owners to tell it themselves.
 
 Meet **Maria and Hector**, from Destilería Coqui, a local pitorro (moonshine) distillery.
 
