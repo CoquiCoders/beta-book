@@ -1,34 +1,27 @@
-# Coqui Coders (Team Puerto Rico)
+# Research
 
-##Why We Are Coding for America:
+## The Landscape of Puerto Rico
 
-![Image Title](http://cl.ly/image/3T2Z0L2F471n/max.png)
+We arrived to Puerto Rico with some ideas in mind and lots of expectations. The first barrier was the **language**. Even though mostly every citizen speaks English, the language you hear on the street and the language they use to approach you is mainly Spanish. Luckily we have one native speaker, but 67% of the coqui team barely knew enough to exchange pleasantries.
 
-**Max** (Developer) codes for America because he remembers the experience of his family as immigrants to the United States and what it was like to navigate government services. Now with his coding skills he wants to help make government work better for citizens.
+The second challenge was the **scope of the project**. Economic Development is by default a big challenge and you add complexity if you have these facts in mind:
 
+**1. BIG DEBT**:
+$70 Billion, downgraded to junk status the second day we were there.
 
-![Image Title](http://cl.ly/image/270s3h3z093N/clara.png)
+**2. BRAIN DRAIN**:
+3.7 million Puerto Ricans in mainland which recently surpassed the number of native puertoriqueños on the island.
 
-**Clara Gonzalez Sueyro** (Researcher)
- codes for America because she wants to expose people in government to new possibilities by showing that institutions and systems are social constructions that can be organized differently.
+**3. COMPLEX LEGAL SYSTEM**:
+(Spain / US / PR)
 
-![Image Title](http://cl.ly/image/1K2D2r272x1L/ainsley.png)
+**4. COMPLEX ORGANIZATIONAL STRUCTURE**:
+78 municipalities
 
+We spent a lot of time understanding the context around Economic Development. Puerto Rico has a lot of agencies working under the umbrella of Economic Development and it was neccesary to understand how each agency worked on an individual level and as an overall structure.
 
-**Ainsley** (Designer) codes for America becasue she believes in using design thinking to solve the complex problems governments face in making life better for their citizens.
+It did not take long to pick up on the disconnect between agencies and the complexity of the situation in terms of roles, responsibilities and technology used.
 
-![Image Title](http://cl.ly/image/3P173N173j0S/giancarlo.png)
+However, one thing that made it all easier was the openess and willingness of the agencies employees.
 
-
-**Giancarlo Gonzalez** (Chief Information Officer and Advisor to the Governor of Puerto Rico)
-applied to Code for America because he  believes in what CfA stood for and represented, and thought it was a great vehicle to deliver not only a solution to benefit our citizens, but to push forward as a 'very much needed' agent of change in our tech culture.
-
-##Coqui Origins
-
-During January we got to know each other, learned about our ways of working, absorbed as much as we could to prepare us for February residency and the year ahead, and built a team which we named **Coqui Coders**.
-
-**The coqui is a native species to Puerto Rico** and has been their cultural symbol and national icon. When Puerto Ricans want to express their nationality, they say: *"Soy de aquí como el coquí!"* (I'm from here like the coquí!).
-
-And so - the Coqui Team was formed.
-
-
+##Many challenges, no regrets.
