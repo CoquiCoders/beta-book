@@ -38,13 +38,14 @@ Our goal was to scope the project and learn first hand about people and contexts
 * There is a **DIY attitude** which makes it hard for governments to engage with the community.
 
 
-###While we collected all of this research in February, this is the process we used to filter our findings into actionable paths forward:**
+###While we collected all of this research in February, this is the process we used to filter our findings into actionable paths forward:
 
 ![Image Title](http://cl.ly/image/0g1e3u224233/unnamed.png)
 
 We went back to San Francisco with a user story that defined the problem area we wanted to address:
 
-As a **small business owner** I don’t know what **support** is available to me to grow my business.
+### As a **small business owner** I don’t know what **support** is available to me to grow my business.
+
 
 
 From the user story we moved to **opportunities for design.**
