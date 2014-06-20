@@ -13,6 +13,8 @@ From our 10 interviews we validated our hypotheses about the issues that BizWall
 
 We knew the MVP (Minimum Viable Product) we wanted to build is a **streamlined search process that delivers real, customized report of resources available to a given business owner**.
 
+We decided to pilot the application with 2 Economic Development Agencies, 2 Banks and a municipality to learn before attempting territory-wide adoption.
+
 ## [MVP](http://biz-finance-123.webflow.com/)
 
 
