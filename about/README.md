@@ -24,5 +24,9 @@ It did not take long to pick up on the disconnect between agencies and the compl
 
 However, one thing that made it all easier was the openess and willingness of the agencies employees.
 
-**Many challenges, no regrets.
-**
+**Many challenges, no regrets.**
+
+---
+
+
+![Image Title](http://cl.ly/image/2r1A3l0k0710/unnamed.png)

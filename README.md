@@ -1,6 +1,5 @@
 <h1 style="text-align:center">A Whole New Territory</h1>
 
-![Cover](/cover.jpg);
 
 The typical Code for America model is working with a city, but we have had the privilege and challenge of working with CfA’s first **territory**. This is a large context to understand. Economic Development was our area and Puerto Rico has **15% unemployment** and a strong trend of **young, bright minds leaving** for the mainland but **over 50 incentives** (further reading on incentives [here](/Appendix/README.html) to try to encourage business owners and entrepreneurs to **stay, invest, and grow in Puerto Rico.**
 
@@ -19,7 +18,5 @@ As we user test, we are hearing great things about what these products can do fo
 
 We are excited to continue to work toward meeting this challenge and helping these people.
 
----
 
-![Image Title](http://cl.ly/image/2r1A3l0k0710/unnamed.png)
 
