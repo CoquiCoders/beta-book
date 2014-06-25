@@ -1,10 +1,10 @@
 # Summary
 
 * [About Us](about_us/README.md)
-* [Research](about/README.md)
-   * [Field Research](about/article_1.md)
-   * [Meeting our User](about/ideation.md)
-   * [Stories from the Field](about/real_stories.md)
+* [Research](research/README.md)
+   * [Field Research](research/field_research.md)
+   * [Meeting our User](research/meeting_our_user.md)
+   * [Stories from the Field](research/stories_from_the_field.md)
 * [Prototyping](prototyping/README.md)
    * [Negocio 123](prototyping/negocio_123.md)
    * [BizWallet](prototyping/bizwallet.md)
