@@ -7,7 +7,7 @@ We wanted to understand how citizens respond to the question about civic pride a
 
 Yo me quedo en Puerto Rico is live and already hosts more than 90 messages from puertorriqueños that decided to stay in Puerto Rico and what they love about their island.
 
-The app has gotten forked by several of the other fellowship teams. It currently lives online at I Love Puerto Rico, and the codebase can be found on GitHub.
+The app has gotten forked by several of the other fellowship teams. It currently lives online at I Love Puerto Rico, and the codebase can be found on [Github](https://github.com/CoquiCoders/ilovepr)
 
 ### **Negocio Local**
 
@@ -17,7 +17,7 @@ The idea for Negocio Local came out of the [Unhackathon for Puerto Rico](http://
 
 We came up with an idea and a design for a sticker that a business owner may put on his or her storefront in order to encourage people to shop inside his or her store instead of Macy's or Sears. We knew that unifying local business under a strong brand would have a big impact. However, we wanted to add a bit of engagement and interaction to the system.
 
-We added a call to action on the sticker, the gist being "Text ___ to (787)443-8833 to find out more". Upon receiving the sticker, the business owenr would go on the site, register a short code for their business, and before attaching the sticker to the glass, write the short code in the black line.
+We added a call to action on the sticker, the gist being "Text ___ to (787)443-8833 to find out more". Upon receiving the sticker, the business owner would go on the site, register a short code for their business, and before attaching the sticker to the glass, write the short code in the black line.
 
 She would also have the opportunity to determine what the response will be once someone does text the number. Some business owners may want to simply text a coupon back, while others may want
 to provide some history about their business.
