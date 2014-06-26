@@ -1,6 +1,6 @@
 # Engaging with the community
 
-One of the most enjoyable parts of our Puerto Rico Code for America Fellowhsip has been interacting with the community through the Code for America Brigade: [Code 4 Puerto Rico](http://code4puertorico.org/"Code 4 Puerto Rico")
+One of the most enjoyable parts of our Puerto Rico Code for America Fellowhsip has been interacting with the community through the Code for America Brigade: [Code 4 Puerto Rico](http://code4puertorico.org)
 
 In February we were present for the first official kick-off meeting, but it must be said that the Puerto Rico brigade was largely still functioning and all we had to do was show up, participate and share the Code for America love.
 
@@ -10,7 +10,7 @@ One beautiful change in our city that our brigade captain told us was that as a 
 
 # Skill Shares
 
-In February, we conducted a skillshare at [Piloto151](http://www.piloto151.com/"Piloto 151"), the coworking space in Old San Juan which hosts all the Tuesday night brigade meetings.
+In February, we conducted a skillshare at [Piloto151](http://www.piloto151.com), the coworking space in Old San Juan which hosts all the Tuesday night brigade meetings.
 
 Clara spoke about Lean Startup Methodologies and her experience in the startup world, Ainsley spoke about Rapid Prototyping with Twitter Bootstrap 3, and Max gave an overview of how git works and how to get started.
 
