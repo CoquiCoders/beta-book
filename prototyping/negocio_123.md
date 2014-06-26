@@ -16,6 +16,6 @@ We envisioned **Negocio 123** as a single place that helps small business owners
 ### [Negocio 123](http://negocio123.herokuapp.com/)
 
 
-![Image Title](http://cl.ly/image/0d3Y2P1f3H01/Expectations-Chart_green.png)
+![Image Title](http://cl.ly/image/3C3d22270J0l/serve.png)
 
 
