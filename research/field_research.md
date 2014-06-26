@@ -9,7 +9,7 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 ![Image Title](http://cl.ly/image/0c0p1k2F1H47/unnamed.png)
 
-##Findings throughout our research:
+###Findings throughout our research:
 
 * There are **more than 50 benefits and incentives** offered by Economic Development agencies **to start or promote a business**. These benefits are managed by different agencies without a interagency system, therefore:
 
@@ -44,7 +44,7 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 We went back to San Francisco with a user story that defined the problem area we wanted to address:
 
-### As a **small business owner** I don’t know what **support** is available to me to grow my business.
+#### As a **small business owner** I don’t know what **support** is available to me to grow my business.
 
 
 
