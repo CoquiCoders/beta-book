@@ -18,6 +18,3 @@ As we user test, we are hearing great things about what these products can do fo
 "BizWallet is a very friendly application and it provides you with what you need to get finance (…) people don’t know about what is available (…)I wish it would have existed three years ago” Arturo Lopez, founder of Huerto isleño.**
 
 We are excited to continue to work toward meeting this challenge and helping these people.
-
-
-
