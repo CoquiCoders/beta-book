@@ -40,7 +40,7 @@ We have been interviewing various small and local businesses and associations bo
 
 Clara and Ainsley are painfully aware of the humidity on a daily basis because for two ladies with wavy hair - humidity can mean the difference between looking presentable and looking completely disheveled. So - we thought - wouldn’t it be funny if… we gave a reading of the humidity and then showed a corresponding icon of a lady with progressively unruly hair.
 
-![Image Title](https://www.dropbox.com/s/gbevwtmn7ggwasm/humedad-sanjuan.jpg)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/humedad-sanjuan.jpg)
 
 
 * Coqui Song
