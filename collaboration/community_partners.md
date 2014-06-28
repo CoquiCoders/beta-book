@@ -30,5 +30,5 @@ In April, we hosted a simultaneous **UnHackathon for Puerto Rico** in San Franci
 
 In May, the brigade put on the **National Day of Civic Hacking** event in Caguas, Puerto Rico where 40 people came to work on projects such as Caguas' LocalWiki and Puerto Rico Answers.
 
-![Image Title](http://cl.ly/WJ2t/10429259_10152451308363048_4156472403963857296_n.jpg)
+![Image Title](http://cl.ly/WIZs/10365528_10152428168258048_8833686552638823947_o.jpg)
 
