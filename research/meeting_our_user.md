@@ -7,13 +7,13 @@ As we honed our problem statement, we developed a **user persona** to focus our 
 ###This is Mario:
 
 
-![Image Title](http://cl.ly/WISk/mario-persona.jpg)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/mario-persona.jpg)
 
 ---
 
 ###This is Mario's journey to starting a business:
 
-![Image Title](http://cl.ly/WIWh/unnamed%20copy%203.png)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/unnamed%20copy%203.png)
 
 
 ###Main challenges (as told by our users):

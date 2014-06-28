@@ -7,7 +7,7 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 ###Here's what our February looked like:
 
-![Image Title](http://cl.ly/WIO1/unnamed.png)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/unnamed%20copy%207.png)
 
 ###Findings throughout our research:
 
@@ -40,7 +40,7 @@ Our goal was to scope the project and learn first hand about people and contexts
 
 ####While we collected all of this research in February, this is the process we used to filter our findings into actionable paths forward:
 
-![Image Title](http://cl.ly/WIgU/unnamed.png)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/unnamed.png)
 
 We went back to San Francisco with a user story that defined the problem area we wanted to address:
 

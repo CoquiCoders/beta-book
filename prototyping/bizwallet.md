@@ -2,7 +2,7 @@
 
 BizWallet addressed the cross-section of difficulty accessing capital to start a business and the lack of knowledge about resources (financial and otherwise) that would be helpful to a small business owner.
 
-![BizWallet](http://cl.ly/WIdO/Slides_BizWallet_Venn_Fit.png)
+![BizWallet](https://dl.dropboxusercontent.com/u/7894148/Chronicles/Slides_BizWallet_Venn_Fit.png)
 
 
 We prototyped our first version of the MVP (minimum viable product) where businesses will answer a set of questions to receive information on what they qualify for.
@@ -15,9 +15,9 @@ At the end, users are presented with a report culled from our back-end of agency
 
 We presented 3 different mockups that varied the user flow and branding.
 
-![Image Title](http://cl.ly/WIAH/Prototype_AllFronts-1.jpg)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/Prototype_AllFronts.jpg)
 
-![Image Title](http://cl.ly/WI5y/threelandings-1.jpg)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/threelandings-1.jpg)
 
 
 We wanted to learn if BizWallet's value proposition:

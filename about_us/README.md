@@ -4,22 +4,22 @@
 
 ### Why We're Coding for America:
 
-![Image Title](http://cl.ly/WJ7A/max.png)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/max.png)
 
 **Maksim Pecherskiy** (Developer) codes for America because he remembers the experience of his family as immigrants to the United States and what it was like to navigate government services. Now with his coding skills he wants to help make government work better for citizens.
 
 
-![Image Title](http://cl.ly/WIVR/clara.png)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/clara.png)
 
 **Clara Gonzalez Sueyro** (Researcher)
  codes for America because she wants to expose people in government to new possibilities by showing that institutions and systems are social constructions that can be organized differently.
 
-![Image Title](http://cl.ly/WIit/ainsley.png)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/ainsley.png)
 
 
 **Ainsley Wagoner** (Designer) codes for America becasue she believes in using design thinking to solve the complex problems governments face in making life better for their citizens.
 
-![Image Title](http://cl.ly/WIAe/giancarlo.png)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/giancarlo.png)
 
 
 **Giancarlo Gonzalez** (Chief Information Officer and Advisor to the Governor of Puerto Rico)

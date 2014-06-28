@@ -11,7 +11,7 @@ The main things that plagued our target audience (small and medium-sized busines
 
 We saw opportunities to address cross-sections of these issues in two different ways - one short term and one longer term:
 
-![Image Title](http://cl.ly/VwDa/Slides_Challenges_Solutions_Fit.png)
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/Slides_Challenges_Solutions_Fit.png)
 
 
 
