@@ -1,7 +1,7 @@
 # **Negocio 123**
 ###Is a static website that displays the requirements and timeframe in the process of opening a business.
 
-![Negocio 123](http://cl.ly/image/1K0o1l3z1M1j/Slides_Negocio_Venn_Fit.png)
+![Negocio 123](http://cl.ly/WIa3/Slides_Negocio_Venn_Fit.png)
 
 ###Why just a quick win?
 
@@ -16,6 +16,6 @@ We envisioned **Negocio 123** as a single place that helps small business owners
 ### [Negocio 123](http://negocio123.herokuapp.com/)
 
 
-![Image Title](http://cl.ly/image/3C3d22270J0l/serve.png)
+![Image Title](http://cl.ly/WIBI/serve.png)
 
 

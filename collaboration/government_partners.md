@@ -4,7 +4,7 @@ Outside of our project's goals, our priority is to make sure that this fits in a
 
 This means incorporating our solution into the government's **one-stop-shop initiative**
 
-![Image Title](http://cl.ly/image/2F1G2a043B1z/slides_One_Stop_Shoppe.png)
+![Image Title](http://cl.ly/WIjT/slides_One_Stop_Shoppe.png)
 
 
 We understand that the government is planning to make one place for entrepreneurs to be able to sign on and access their information (**single sign-on**) and then expedite the business permitting process to be only **24 hours**.
