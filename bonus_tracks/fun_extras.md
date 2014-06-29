@@ -48,4 +48,4 @@ Clara and Ainsley are painfully aware of the humidity on a daily basis because f
 When we came back from residency, we were inspired to share our experience by writing a song.
 
 
-<a href="https:vimeo.com/97990247" target="_blank"><img src="http://i.vimeocdn.com/video/478559592_640.jpg"/></a>
+<a href="https:vimeo.com/97990247" target="_blank"><img src="https://dl.dropboxusercontent.com/u/7894148/Chronicles/478559592_640.jpg"/></a>
