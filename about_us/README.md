@@ -4,7 +4,8 @@
 
 ### Why We're Coding for America:
 
-![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/max.png)
+
+![Image Title]((https://dl.dropboxusercontent.com/u/7894148/Chronicles/max.png))
 
 **Maksim Pecherskiy** (Developer) codes for America because he remembers the experience of his family as immigrants to the United States and what it was like to navigate government services. Now with his coding skills he wants to help make government work better for citizens.
 
