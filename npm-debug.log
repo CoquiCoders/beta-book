@@ -1,0 +1,124 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/node/0.10.26/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save-dev',
+1 verbose cli   'grunt-push',
+1 verbose cli   'grunt-origin',
+1 verbose cli   'grunt-master' ]
+2 info using npm@1.4.3
+3 info using node@v0.10.26
+4 verbose cache add [ 'grunt-push', null ]
+5 verbose cache add name=undefined spec="grunt-push" args=["grunt-push",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'grunt-push',
+6 verbose parsed url   path: 'grunt-push',
+6 verbose parsed url   href: 'grunt-push' }
+7 verbose cache add [ 'grunt-origin', null ]
+8 verbose cache add name=undefined spec="grunt-origin" args=["grunt-origin",null]
+9 verbose parsed url { protocol: null,
+9 verbose parsed url   slashes: null,
+9 verbose parsed url   auth: null,
+9 verbose parsed url   host: null,
+9 verbose parsed url   port: null,
+9 verbose parsed url   hostname: null,
+9 verbose parsed url   hash: null,
+9 verbose parsed url   search: null,
+9 verbose parsed url   query: null,
+9 verbose parsed url   pathname: 'grunt-origin',
+9 verbose parsed url   path: 'grunt-origin',
+9 verbose parsed url   href: 'grunt-origin' }
+10 verbose cache add [ 'grunt-master', null ]
+11 verbose cache add name=undefined spec="grunt-master" args=["grunt-master",null]
+12 verbose parsed url { protocol: null,
+12 verbose parsed url   slashes: null,
+12 verbose parsed url   auth: null,
+12 verbose parsed url   host: null,
+12 verbose parsed url   port: null,
+12 verbose parsed url   hostname: null,
+12 verbose parsed url   hash: null,
+12 verbose parsed url   search: null,
+12 verbose parsed url   query: null,
+12 verbose parsed url   pathname: 'grunt-master',
+12 verbose parsed url   path: 'grunt-master',
+12 verbose parsed url   href: 'grunt-master' }
+13 silly lockFile 9513b0e7-grunt-push grunt-push
+14 verbose lock grunt-push /Users/clara/.npm/9513b0e7-grunt-push.lock
+15 silly lockFile 38c8a247-grunt-origin grunt-origin
+16 verbose lock grunt-origin /Users/clara/.npm/38c8a247-grunt-origin.lock
+17 silly lockFile 7d6e85a6-grunt-master grunt-master
+18 verbose lock grunt-master /Users/clara/.npm/7d6e85a6-grunt-master.lock
+19 silly lockFile 9513b0e7-grunt-push grunt-push
+20 silly lockFile 9513b0e7-grunt-push grunt-push
+21 silly lockFile 38c8a247-grunt-origin grunt-origin
+22 silly lockFile 38c8a247-grunt-origin grunt-origin
+23 silly lockFile 7d6e85a6-grunt-master grunt-master
+24 silly lockFile 7d6e85a6-grunt-master grunt-master
+25 verbose addNamed [ 'grunt-push', '' ]
+26 verbose addNamed [ null, '*' ]
+27 silly lockFile 08a5feb5-grunt-push grunt-push@
+28 verbose lock grunt-push@ /Users/clara/.npm/08a5feb5-grunt-push.lock
+29 verbose addNamed [ 'grunt-origin', '' ]
+30 verbose addNamed [ null, '*' ]
+31 silly lockFile 4a46daf4-grunt-origin grunt-origin@
+32 verbose lock grunt-origin@ /Users/clara/.npm/4a46daf4-grunt-origin.lock
+33 verbose addNamed [ 'grunt-master', '' ]
+34 verbose addNamed [ null, '*' ]
+35 silly lockFile e190d370-grunt-master grunt-master@
+36 verbose lock grunt-master@ /Users/clara/.npm/e190d370-grunt-master.lock
+37 silly addNameRange { name: 'grunt-push', range: '*', hasData: false }
+38 silly addNameRange { name: 'grunt-origin', range: '*', hasData: false }
+39 verbose url raw grunt-push
+40 verbose url resolving [ 'https://registry.npmjs.org/', './grunt-push' ]
+41 verbose url resolved https://registry.npmjs.org/grunt-push
+42 info trying registry request attempt 1 at 11:50:46
+43 http GET https://registry.npmjs.org/grunt-push
+44 verbose url raw grunt-origin
+45 verbose url resolving [ 'https://registry.npmjs.org/', './grunt-origin' ]
+46 verbose url resolved https://registry.npmjs.org/grunt-origin
+47 info trying registry request attempt 1 at 11:50:46
+48 http GET https://registry.npmjs.org/grunt-origin
+49 silly addNameRange { name: 'grunt-master', range: '*', hasData: false }
+50 verbose url raw grunt-master
+51 verbose url resolving [ 'https://registry.npmjs.org/', './grunt-master' ]
+52 verbose url resolved https://registry.npmjs.org/grunt-master
+53 info trying registry request attempt 1 at 11:50:46
+54 http GET https://registry.npmjs.org/grunt-master
+55 http 404 https://registry.npmjs.org/grunt-origin
+56 silly registry.get cb [ 404,
+56 silly registry.get   { date: 'Wed, 20 Aug 2014 18:50:48 GMT',
+56 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+56 silly registry.get     'content-type': 'application/json',
+56 silly registry.get     'cache-control': 'max-age=0',
+56 silly registry.get     'content-length': '52',
+56 silly registry.get     'accept-ranges': 'bytes',
+56 silly registry.get     via: '1.1 varnish',
+56 silly registry.get     age: '0',
+56 silly registry.get     'x-served-by': 'cache-sjc3131-SJC',
+56 silly registry.get     'x-cache': 'MISS',
+56 silly registry.get     'x-cache-hits': '0',
+56 silly registry.get     'x-timer': 'S1408560648.175107,VS0,VE87',
+56 silly registry.get     'keep-alive': 'timeout=10, max=50',
+56 silly registry.get     connection: 'Keep-Alive' } ]
+57 silly lockFile 4a46daf4-grunt-origin grunt-origin@
+58 silly lockFile 4a46daf4-grunt-origin grunt-origin@
+59 error 404 'grunt-origin' is not in the npm registry.
+59 error 404 You should bug the author to publish it
+59 error 404
+59 error 404 Note that you can also install from a
+59 error 404 tarball, folder, or http url, or git url.
+60 error System Darwin 13.1.0
+61 error command "/usr/local/Cellar/node/0.10.26/bin/node" "/usr/local/bin/npm" "install" "--save-dev" "grunt-push" "grunt-origin" "grunt-master"
+62 error cwd /Users/clara/code/beta-book
+63 error node -v v0.10.26
+64 error npm -v 1.4.3
+65 error code E404
+66 verbose exit [ 1, true ]
