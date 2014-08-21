@@ -32,3 +32,19 @@ In May, the brigade put on the **National Day of Civic Hacking** event in Caguas
 
 ![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/10365528_10152428168258048_8833686552638823947_o.jpg)
 
+
+#Collaboration with Local Brands
+
+We hosted a workshop with [Brands of Puerto Rico](http://brandsofpuertorico.com/), an ecommerce platform for local brands and [Antrocket](http://www.antrocket.com/es), a crowdfunding platform at co-working space [Serioulsy Creative](http://seriouslycreative.com/) in Santurce to learn more about the different journeys that small businesses take when seeking for funding.
+
+We want to collaborate with each other by helping in the creation and support of an ecosystem for small business owners.
+
+
+![Image Title](http://cl.ly/X8a5/IMG_0268.jpg)
+
+### Photoshooting with local Brand for Landing page
+
+We had the pleasure to participate in the photoshooting of [De Hojas](http://brandsofpuertorico.com/t/categories/health-beauty/de-hojas), a local and home-made soap company. We are hosting De hojas in our new landing page. It is a pleasure to promote such an amazing endeavour.
+
+
+![Image Title](http://cl.ly/X8Dk/IMG_0247.jpg)
