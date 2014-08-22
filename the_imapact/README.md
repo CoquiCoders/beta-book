@@ -4,9 +4,12 @@ Incentives left on the table represent a lost opportunity when it comes to new b
 
 Imagine a program that helps businesses find the funds they need, while reducing government administration and the cost to taxpayers.
 We let entrepreneurs find and apply for a variety of government and non-government funding streams like reimbursements, tax credits and grants all in one place.
-With Puerto Rico as the lead, we've built a new way to help small businesses, increase local jobs, and reduce red tape. If you want to implement a program like this in your city, visit primerpeso.com/contact.
+With Puerto Rico as the lead, we've built a new way to help small businesses, increase local jobs, and reduce red tape.
 
-Overall it encourages the market to move to more open and consistent practices.
+If you want to implement a program like this in your city, visit [Primer Peso](primerpeso.com/contact)
+
+
+Overall it encourages the market to move on to more open and transparent practices.
 
 
 

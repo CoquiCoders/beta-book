@@ -21,10 +21,10 @@ This is what the landing page looked like after incorporating the feedback:
 
 ![Image Title](http://cl.ly/X8Hl/shot-20140820-1515-r7ep48-0.jpeg)
 
-During our trip in August we decided that we should include a business owner in the landing we had a connection with or that we could even meet before. We decided to partner with Brands of Puerto Rico, an ecommerce website that promotes local brands and they suggested to include De Hojas, two ladies working with home-made soaps.
+During our trip in August we decided that we should include a business owner in the landing we had a connection with or that we could even meet before. We decided to partner with Brands of Puerto Rico, an ecommerce website that promotes local brands, and they suggested to include De Hojas, two ladies working with home-made soaps.
 
-This is what the landing page looks now:
+This is our current landing page:
 
-![Image Title](https://www.dropbox.com/s/afk27iwrhpvtucn/shot-20140820-1515-r7ep48-0.jpeg)
+![Image Title](http://cl.ly/XBhe/Screen%20Shot%202014-08-22%20at%208.36.58%20AM.png)
 
 
