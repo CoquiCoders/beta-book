@@ -1,6 +1,6 @@
 # The layout
 
-We were not satisfied with the landing page. We felt it was not telling the right story or engaging the audience in any way. We decided to try something new and tested in the upcoming trip to the island.
+We were not satisfied with the landing page. We felt it was not telling the right story or engaging the audience in any way. We decided to try something new and tested in the trip to the island.
 
 We first built this landing page and realized after speaking to our friends from the Brigade the photo was not addressing the Puerto Ricans. It was associated to an American Business Owner and we needed to change that.
 
@@ -26,3 +26,5 @@ During our trip in August we decided that we should include a business owner in 
 This is what the landing page looks now:
 
 ![Image Title](https://www.dropbox.com/s/afk27iwrhpvtucn/shot-20140820-1515-r7ep48-0.jpeg)
+
+

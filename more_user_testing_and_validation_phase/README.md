@@ -16,24 +16,15 @@ During the two week trip to the island we accomplished a lot:
 
 We divided our strategy in three areas:
 
-The **technology** in place. We wanted to learn about the current government back-end systems that will handle the application process to make sure we will integrate it correctly and the app will survive in good shape after the fellowship. To do this we did research around the current CRMs used by agencies and proposed a solution that couls be easily adopted by new agencies.
-We decided to propose a webhook.
-
-Webhooks are sometimes referred to as “Reverse APIs,” as they give you what amounts to an API spec, and you must design an API for the webhook to use. The webhook will make an HTTP request to your app (typically a POST), and you will then be charged with interpreting it.
-
-Agencies will be giving us a place to send it as events happen.
-
-The **front-end** part of it. We wanted to integrate our application within the government websites. This means either adding a iframe or a banner.
+The **technology** in place. We wanted to learn about the current government back-end systems that will handle the application process to make sure we will integrate it correctly and the app will survive in good shape after the fellowship. To do this we did research around the current CRMs used by agencies and proposed a solution that could be easily adopted by new agencies.
 
 
-![Image Title](http://cl.ly/X8U0/Screen%20Shot%202014-08-20%20at%2011.32.31%20AM.png)
-
-![Image Title](http://cl.ly/X8rz/Screen%20Shot%202014-08-20%20at%2011.32.42%20AM.png)
-
-![Image Title](http://cl.ly/X86b/Screen%20Shot%202014-08-20%20at%2011.32.53%20AM.png)
+The **front-end** part of it. We wanted to integrate our application within the government websites.
 
 
-The **marketing** side of it. We are going to do a soft launch in August 28th in an event where Giancarlo is going to present the results of the Tech Summit he hosted in June. During our user-testing sessions we  collected information on the main channels small business owners use to learn more about government stuff and use those channels to communicate our value proposition.
+The **marketing** side of it. We are going to do a soft launch in August 28th in an event where Giancarlo is going to present the results of the Tech Summit he hosted in June. During our user-testing sessions we collected information on the main channels small business owners use to learn more about government stuff and use those channels to communicate our value proposition.
+
+fotos of journeys and others stuff
 
 We are working together with other local Brands and services to build an ecosystem that supports small businesses.
 
