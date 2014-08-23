@@ -3,7 +3,7 @@
 When we came back from pur trip in February and start debfriefing we realize there was an opportunity for microloans in Puerto Rico.
 Why? Many business owners can't access credits from commercial banks because of their collaterals but still need support to start or grow.
 
-For a moment we thought we could do something in that area and then realized Kiva is an establish player in the field.
+For a moment we thought we could do something in that area and then realized Kiva is an established player in the field.
 We got a meeting with Jonny Price, Senior Director of Kiva Zip.
 
 We wanted to know why Kiva was not operating in Puerto Rico and if we could launch it there under Kiva.zip which is the pilot Kiva is running in the US and among other differences with Kiva.org loans don't have interest and Trustees have a different role.

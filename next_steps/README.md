@@ -1,4 +1,4 @@
-# What's next since Beta:
+# What's next from Beta:
 
 ### BizWallet Goals:
 For us, the next steps from this point are to really **get our application into production** and **develop the user persona for the government employee** (and needs around) the second facet of the BizWallet product: the application process.

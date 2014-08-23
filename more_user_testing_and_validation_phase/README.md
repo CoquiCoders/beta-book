@@ -1,6 +1,6 @@
 # More user testing and validation phase
 
-During the two week trip to the island we accomplished a lot:
+During the two week trip to the island we accomplished quite a bit:
 
 1. Performed user testing around the application with small business owners
 
@@ -14,8 +14,7 @@ During the two week trip to the island we accomplished a lot:
 
 4. Performed workshop with Brands of Puerto Rico to gather insights about the the different businesses journeys around securing funding
 
-
-![Workshop](http://cl.ly/XAyK/IMG_0148.jpg)
+![](http://cl.ly/XAdb/IMG_0165.jpg)
 
 
 5. Talked to some agencies about opening new datasets
@@ -23,7 +22,7 @@ During the two week trip to the island we accomplished a lot:
 7. Schedules the launch of Kiva in Puerto Rico
 8. Defined the integration with agencies CRMs or other systems
 
-![CRMs](http://cl.ly/XBKX/IMG_2137.jpg)
+![Workshop](http://cl.ly/XAyK/IMG_0148.jpg)
 
 
 9. Discuss the launch in terms of branding and marketing

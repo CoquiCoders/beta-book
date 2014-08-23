@@ -7,7 +7,7 @@ We first built this landing page and realized after speaking to our friends from
 ![Image Title](http://cl.ly/X7iK/Screen%20Shot%202014-07-31%20at%2012.37.54%20PM.png)
 
 
-The main request we had from our friends was to include an aspirational photo. We ask for stories and a recurrent one was around the story of Hacienda San Pedro.
+The main request we received from our friends was to include a photo of an aspirational business owner. We ask for stories and a recurrent one was around the story of Hacienda San Pedro.
 
 The story of Hacienda San Pedro goes all the way back to the end of the XIX century when a young Spaniard, thirteen years old, arrives on our shores with a single suitcase and a thousand dreams. Emeterio Atienza was an excellent worker, who, in a very short time, reached the position of head butler, and later,
 Foreman of one of the most prestigious coffee plantations in Puerto Rico
