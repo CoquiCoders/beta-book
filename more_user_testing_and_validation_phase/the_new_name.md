@@ -1,6 +1,6 @@
-# A new name
+# Branding
 
-Together with the change in the layout we decided to change the name for several reasons:
+Together with the change in the layout we decided to change the name of the application:
 
 1. We wanted a name in spanish
 2. We decided that BizWallet was giving the wrong message. Puertorican residents didn't really like it and we didn't love it either.

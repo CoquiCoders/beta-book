@@ -2,11 +2,12 @@
 
 During the two week trip to the island we accomplished quite a bit:
 
-1. Performed user testing around the application with small business owners
+1. Performed some more user testing around the application with small business owners
 
 ![BizWallet](http://cl.ly/XBXX/IMG_0146.jpg)
 
 2. Reach out to new agencies and got 6 new agencies onboard: Agriculture, OAJ, ADL, Film, Tourism and San Juan
+
 3. Kickoff meeting with already onboard agencies
 
 ![Kickoff](http://cl.ly/XBDP/IMG_0207.jpg)
@@ -18,8 +19,11 @@ During the two week trip to the island we accomplished quite a bit:
 
 
 5. Talked to some agencies about opening new datasets
+
 6. Met and pitched application to small businesses organizations and associations
-7. Schedules the launch of Kiva in Puerto Rico
+
+7. Scheduled the launch of Kiva in Puerto Rico
+
 8. Defined the integration with agencies CRMs or other systems
 
 ![Workshop](http://cl.ly/XAyK/IMG_0148.jpg)
@@ -27,23 +31,24 @@ During the two week trip to the island we accomplished quite a bit:
 
 9. Discuss the launch in terms of branding and marketing
 
-
 ![](http://cl.ly/XBVV/IMG_2160.jpg)
 
 ![](http://cl.ly/XAm5/IMG_0240.jpg)
 
+
 10.Tested and validated new name: Primer Peso
 
+--------
 
-We divided our strategy in three areas:
+We divided our integration goals in three areas:
 
-The **back-end**. We wanted to learn about the current government back-end systems that will handle the application process to make sure we will integrate it correctly and the app will survive in good shape after the fellowship. To do this we did research around the current CRMs used by agencies and proposed a solution that could be easily adopted by new agencies.
-
-
-The **front-end** part. We wanted to integrate our application within the government websites.
+The **back-end**. We want to learn about the current government back-end systems that will handle the application process to make sure we will integrate it correctly and the app will survive in good shape after the fellowship. To do this we did research around the current CRMs used by agencies and proposed a solution that could be easily adopted by new agencies.
 
 
-The **marketing** side of it. We are going to do a soft launch in August 28th in an event where Giancarlo is going to present the results of the Tech Summit he hosted in June.
+The **front-end**. We want to integrate our application within the government websites.
+
+
+The **marketing**. We are going to do a soft launch in August 28th in an event where Giancarlo Gonzalez is going to present the results of the Tech Summit he hosted in June and introduce Primer Peso.
 
 
 This has been a long update but just like the rest of the Fellowship teams, there's a lot going on right now as we validate, develop, promote, and refine all at the same time.

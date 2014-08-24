@@ -1,11 +1,8 @@
 # The technology
 
-The application is a node.js webapp.
-Here is the repo: https://github.com/codeforamerica/primerpeso
-
 To integrate with current CRMs we decided to propose a webhook.
 
-Integration is one of the many problems of software development for government. Because many different departments may have different systems and even different use cases for interacting with your application, it is often not feasible to try to integrate with every different system.
+Integration is one of the many problems of software development for government. Many different departments may have different systems and even different use cases for interacting with your application, it is often not feasible to try to integrate with every different system.
 
 Once you accept that, there are several ways that your application can provide in order to empower external developers (AKA developers who you have no control over and no interaction with) to work with your system. The API is a great way of doing this and a well known one. However, it's not always the right solution.
 
@@ -18,3 +15,6 @@ The idea is similar to a subscriber model. The developer provides your applicati
 At the callback to the receive URL, the developer has written code to grab data from the payload that is needed for that specific integration, and do what's needed. The rest of the data just fades away into the ether.
 
 ![](http://cl.ly/XAyK/IMG_0148.jpg)
+
+You can check our app here: https://github.com/codeforamerica/primerpeso
+

@@ -1,4 +1,4 @@
-# Front-end & Marketing
+# Marketing
 
 We wanted to integrate the website with the existing ones in Puerto Rico. This means either adding a iframe or a banner.
 
@@ -12,10 +12,9 @@ We wanted to integrate the website with the existing ones in Puerto Rico. This m
 
 Marketing
 
-We have been thinking about how to reach out to small business owners.
-In the workshop we collected different journeys owners transition when seeking for funding witht their touchpoints and channels.
+We have been thinking a lot on how to reach out to small business owners.
+Part of the workshop we did in Puerto Rico was to collect the various journeys business owners transition when seeking for funding. These journeys will help us with stories, challenges and channels for our campaign.
 
-We are going to use all these information when we start the marketing/ promotion campaign.
 
 ![Image Title](http://cl.ly/XBi9/IMG_0165.jpg)
 

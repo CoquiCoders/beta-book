@@ -1,4 +1,4 @@
-# The impact we want to create
+# The long-term impact
 
 Incentives left on the table represent a lost opportunity when it comes to new businesses, jobs and community benefits. At a time when most local governments are under extreme scrutiny to increase jobs and reduce inefficiencies, we need to rethink our processes and increase local businesses.
 

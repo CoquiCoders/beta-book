@@ -1,30 +1,24 @@
 # Kiva Puerto Rico
 
-When we came back from pur trip in February and start debfriefing we realize there was an opportunity for microloans in Puerto Rico.
-Why? Many business owners can't access credits from commercial banks because of their collaterals but still need support to start or grow.
+We were suprised to find out that Puerto Rico has almost zero microloan initiatives. This struck us as an enormous opportunity to plant a seed of change.
 
-For a moment we thought we could do something in that area and then realized Kiva is an established player in the field.
-We got a meeting with Jonny Price, Senior Director of Kiva Zip.
+Many business owners in Puerto Rico can't access credit from commercial banks however they still need financing to start and grow.
 
-We wanted to know why Kiva was not operating in Puerto Rico and if we could launch it there under Kiva.zip which is the pilot Kiva is running in the US and among other differences with Kiva.org loans don't have interest and Trustees have a different role.
+This is where microloan organizations come into play. When we contacted Jonny Price, Senior Director of Kiva Zip we found out that Kiva was simply never invited to operate on the island.
 
-Jonny answered: "Nobody contacted me from Puerto Rico but we would love to launch there" Since that meeting we have been doing as much as we could to make it happen.
+Immediately after meeting Jonny we set to work on getting Kiva launched in Puerto Rico. We found out that one possibility was to launch under Kiva.zip which is a pilot Kiva is running in the US.
+The smartest decision was to pitch Kiva to locals and find someone own their own desire to launch it there. We were fortunate to find this person quickly and she took it as a personal crusade.
 
-The smartest decision was to pitch Kiva to locals and made someone own this desire to launch it there.
-We found that person pretty fast and she took it as a personal cruzade.
+Denisse Rodriguez works at Foundation for Puerto Rico and incorporated into her agenda the launch of Kiva in Puerto Rico. She is the champion on the island for good causes and knows how to get things done.
 
-Meet Denisse Rodriguez, she works at Foundation for Puerto Rico and incorporated into her agenda the launch of Kiva in Puerto Rico. She is the champion in the island.
-
-Denisse already pitched several potential trustees and 3 already are in the process of becoming legit.
-Next step would be for those trustees to recommend borrowers and for us to reach out to Diaspora and promote the borrowers businesses.
-
-This is Denisse pitching Kiva to Tara Rodriguez, from Departamento de la Comida, a hub for organic food.
-
+Denisse has already pitched several potential trustees and 3 already are in the process of becoming official trustees. The next step is for those trustees to recommend borrowers and for us to reach out to the Puerto Rican diaspora and promote the borrower businesses.
 
 ![Image Title](http://cl.ly/X7oo/IMG_2202.jpg)
+This is Denisse pitching a potential trustee.
 
-This is Tara Rodriguez
+
 
 ![Image Title](http://cl.ly/X7jH/comida3.jpg)
+This is Tara Rodriguez who will be one of the first three Kiva trustees in Puerto Rico. Tara runs "Departamento de la Comida", an organic food hub. She has regular contact with many farmers who may soon benefit from access to microloans via Kiva.
 
 
