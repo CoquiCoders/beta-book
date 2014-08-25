@@ -22,7 +22,7 @@
    * [Layout](more_user_testing_and_validation_phase/frontend.md)
    * [Marketing](more_user_testing_and_validation_phase/marketing.md)
    * [Branding](more_user_testing_and_validation_phase/the_new_name.md)
-   * [Impact](more_user_testing_and_validation_phase/the_impact.md)
+* [Impact](more_user_testing_and_validation_phase/the_impact.md)
 * [Summit](summit/README.md)
 * [Bonus Tracks](bonus_tracks/README.md)
    * [In the News](bonus_tracks/in_the_news.md)
