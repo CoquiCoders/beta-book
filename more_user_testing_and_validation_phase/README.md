@@ -1,54 +1,39 @@
-# More user testing and validation phase
+# Detailed Testing and Validation
 
-During the two week trip to the island we accomplished quite a bit:
+As we moved forward with design and production of our two primary projects it was necessary to maintain our validation efforts and stay on track to reach our target of building desirable, feasible and viable solutions to real problems. Working long-distance with our partners and customers in Puerto Rico is made possible with new technology however some important progress can only be accomplished face-to-face.
 
-1. Performed some more user testing around the application with small business owners
+With this in mind we planned a two week trip to San Juan at the beginning of August.
+
+During the trip to the island we accomplished the following:
+
+1. We performed further in-depth user testing with small business owners.
+2. We expaded our outreach to new agencies and successfully brought six new agencies onboard: The Department of Agriculture, The Organization of Youth Issues, The Administration of Labor Development, The Film Commission, The Office of Tourism and The City of San Juan.
+3. We held a kickoff meeting with the agencies previously brought onboard.
+4. We executed a workshop with Brands of Puerto Rico to gather insights about the the different businesses journeys and how businesses secure funding.
+5. We met with The Department of State and The Department of Economic Development to initiate the opening of new datasets.
+6. Met and pitched our application to small businesses organizations and associations such as The Chamber of Commerce, Hecho en Puerto Rico and The Association of CPAs.
+7. Scheduled the launch of Kiva in Puerto Rico
+8. Defined the integration of our application with CRMs and other systems in use by other agencies.
+9. Strategize with Giancarlo on the application launch in terms of branding and marketing.
+10. Tested and validated the application's new name: PrimerPeso (results: people like it and it works!)
 
 ![BizWallet](http://cl.ly/XBXX/IMG_0146.jpg)
-
-2. Reach out to new agencies and got 6 new agencies onboard: Agriculture, OAJ, ADL, Film, Tourism and San Juan
-
-3. Kickoff meeting with already onboard agencies
+User testing with a small business owner in San Juan
 
 ![Kickoff](http://cl.ly/XBDP/IMG_0207.jpg)
+Kickoff meeting with Giancarlo and agency representatives
+
+![Workshop](http://cl.ly/XAdb/IMG_0165.jpg)
+Small-business workshop in San Juan
+
+![CRM Integration](http://cl.ly/XAyK/IMG_0148.jpg)
+A diagram detailing our CRM system integration
+
+![Discussion](http://cl.ly/XBVV/IMG_2160.jpg)
+Discussion about the soft-launch plan for PrimerPeso
+
+![Step Definition](http://cl.ly/XAm5/IMG_0240.jpg)
+Worksheet to define our next-steps toward launch
 
 
-4. Performed workshop with Brands of Puerto Rico to gather insights about the the different businesses journeys around securing funding
 
-![](http://cl.ly/XAdb/IMG_0165.jpg)
-
-
-5. Talked to some agencies about opening new datasets
-
-6. Met and pitched application to small businesses organizations and associations
-
-7. Scheduled the launch of Kiva in Puerto Rico
-
-8. Defined the integration with agencies CRMs or other systems
-
-![Workshop](http://cl.ly/XAyK/IMG_0148.jpg)
-
-
-9. Discuss the launch in terms of branding and marketing
-
-![](http://cl.ly/XBVV/IMG_2160.jpg)
-
-![](http://cl.ly/XAm5/IMG_0240.jpg)
-
-
-10.Tested and validated new name: Primer Peso
-
---------
-
-We divided our integration goals in three areas:
-
-The **back-end**. We want to learn about the current government back-end systems that will handle the application process to make sure we will integrate it correctly and the app will survive in good shape after the fellowship. To do this we did research around the current CRMs used by agencies and proposed a solution that could be easily adopted by new agencies.
-
-
-The **front-end**. We want to integrate our application within the government websites.
-
-
-The **marketing**. We are going to do a soft launch in August 28th in an event where Giancarlo Gonzalez is going to present the results of the Tech Summit he hosted in June and introduce Primer Peso.
-
-
-This has been a long update but just like the rest of the Fellowship teams, there's a lot going on right now as we validate, develop, promote, and refine all at the same time.
