@@ -1,5 +1,7 @@
 # The long-term impact
 
+Business owners struggle to access the funds they need to launch or expand their businesses. At the same time, most of the financial investments and funding sources go to unfamiliar, opaque investments in far way places and have impacts from which we are disconnected.
+
 Incentives left on the table represent a lost opportunity when it comes to new businesses, jobs and community benefits. At a time when most local governments are under extreme scrutiny to increase jobs and reduce inefficiencies, we need to rethink our processes and increase local businesses.
 
 Imagine a program that helps businesses find the funds they need, while reducing government administration and the cost to taxpayers.
@@ -10,6 +12,7 @@ If you want to implement a program like this in your city, visit [Primer Peso](p
 
 
 Overall it encourages the market to move on to more open and transparent practices.
+
 
 
 

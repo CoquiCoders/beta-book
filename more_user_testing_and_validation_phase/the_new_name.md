@@ -2,7 +2,7 @@
 
 Together with the change in the layout we decided to change the name of the application:
 
-1. We wanted a name in spanish
+1. We wanted a name in Spanish
 2. We decided that BizWallet was giving the wrong message. Puertorican residents didn't really like it and we didn't love it either.
 
 After several exercises and team discussions, we found one that we all liked - and we felt it was appropriate to have it in Spanish.
