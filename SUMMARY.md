@@ -14,7 +14,7 @@
    * [Government Partners](collaboration/government_partners.md)
    * [Kiva Puerto Rico](kiva_puerto_rico/README.md)
    * [Collaboration with Local Brands](collaboration/collaboration_with_local_brands.md)
-* [Mid-year Feedback](mid-year_feedback/README.md)
+* [Mid-year Accomplishments](mid-year_feedback/README.md)
    * [Mid-Year Presentation](new_round_of_testing_and_validation/README.md)
    * [Mid year - next steps](next_steps/README.md)
 * [More Results](more_user_testing_and_validation_phase/README.md)
