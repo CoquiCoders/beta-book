@@ -25,6 +25,7 @@
 * [Impact](more_user_testing_and_validation_phase/the_impact.md)
 * [Summit](summit/README.md)
 * [Bonus Tracks](bonus_tracks/README.md)
+   * [Acknowledgements](bonus_tracks/acknowledgements.md)
    * [In the News](bonus_tracks/in_the_news.md)
    * [Fun Extras](bonus_tracks/fun_extras.md)
 * [Appendix: Incentives](appendix/README.md)

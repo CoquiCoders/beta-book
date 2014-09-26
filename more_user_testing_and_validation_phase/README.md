@@ -14,7 +14,7 @@ During the trip to the island we accomplished the following:
 6. Met and pitched our application to small businesses organizations and associations such as The Chamber of Commerce, Hecho en Puerto Rico and The Association of CPAs.
 7. Scheduled the launch of Kiva in Puerto Rico
 8. Defined the integration of our application with CRMs and other systems in use by other agencies.
-9. Strategize with Giancarlo on the application launch in terms of branding and marketing.
+9. Strategize with Giancarlo, CIO of Puerto Rico, on the application launch in terms of branding and marketing.
 10. Tested and validated the application's new name: PrimerPeso (results: people like it and it works!)
 
 ![BizWallet](http://cl.ly/XBXX/IMG_0146.jpg)
