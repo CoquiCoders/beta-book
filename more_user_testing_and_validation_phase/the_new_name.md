@@ -56,3 +56,7 @@ Clara got excited about the possibility of collecting stories around people’s 
 And we never looked back.
 
 So that is the story how PrimerPeso was born in a Puerto Rican storm.
+
+Together with the change in the name, we upgraded the logo.
+
+![Image Title](http://cl.ly/XkfZ/screen_shot_2014-09-16_at_12.09.41_pm_360.png)

@@ -24,22 +24,47 @@ The Community, the Brigade, The people working in the government, the small busi
 **Zamia Baerga,** from Caguas
 Natasha Gitany, from Treasury
 **Ruth Silva and Ricardo Alfaro,** from Fortaleza
-**Andrés Colon & Alberto Colon** from CIO office
+**Andrés Colon, Janet Rios & Alberto Colon** from CIO office
+**Ramphis Castro**, from the Senate
+**Luis Castro**
+**Sheila**
+**Juan Carlos Suarez**, from Economic Development
+**Jorge Marti**, from BDE
 
-**Some from Provate Sector:**
 
-Sofia Stolberg,
-Ricardo Burgos,
-Ramphis Castro
-Manuel Natal
-Imanol Aranzadi,
-Stephanie Kruger,
-Christian Rodriguez ,
-Froilan Irizarry,
-Sasha Mendes
+**Some people from the Private Sector:**
+
+**Sofia Stolberg**, from co-working space Piloto151
+**Ricardo Burgos**, from Creative Industries
+**Angie & Dana** from Serioulsy Creative
+**Luis Trelles**
+**Alan & Guarien Taveras** from Brands of Puerto Rico
+**Nicolas Prouty** from Putman Bridge
+
+**Some people from the Brigade Code 4 Puerto Rico**
+
+**Imanol Aranzadi**,
+**Stephanie Kruger**,
+**Christian Rodriguez** ,
+**Froilan Irizarry**,
+**Sasha Mendes**,
+**Roberto**
+**Jon Mangual**
+
+**Some Business owners**
+
 Maria from Destilería Coqui,
 Arturo Lopez from Huerto Isleño,
 Paula from Atencion Atencion
-Luis Trelles,
-Janet
+Tara Rodriguez from Departamento de la Comida
+
+
+
+
+Non-profit
+**Denisee Rodriguez **from Foundation of Puerto Rico
+**Miguel Vacas,** from Grupo Guayacan
+
+
+
 
