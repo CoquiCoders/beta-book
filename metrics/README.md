@@ -1,7 +1,6 @@
 # Metrics
 
-## **Citizen**
-
+## **Business owner**
 
 In the current context it takes a citizen around:
 
@@ -22,7 +21,7 @@ Nowadays it costs:
 
 **With PrimerPeso** it will cost:
 
-0 USD
+2. 0 USD
 
 
 ##**Employee**
@@ -32,7 +31,7 @@ Nowadays an employee spends:
 
 1. half of her/his time answering phone calls from uniformed business owners to run them through checklists of requirements to filter through their available programs
 
-With PrimerPeso an employee will only spend:
+**With PrimerPeso** an employee will only spend:
 
 1. less than half of their time answering phone calls from uniformed business owners, specifically the non tech-savvy one.
 
@@ -40,7 +39,7 @@ Nowadays it costs:
 
 1. 20 hours/week of an employee salary to run those programs
 
-With PrimerPeso it will only cost:
+**With PrimerPeso** it will only cost:
 
 1. less than 10 hour/week employee salary
 

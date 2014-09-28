@@ -43,6 +43,15 @@ Clara and Ainsley are painfully aware of the humidity on a daily basis because f
 ![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/humedad-sanjuan.jpg)
 
 
+* Tale of Two-Islands
+
+A collaboration between [Anna Marie Panlilio](http://www.codeforamerica.org/people/anna-marie-panlilio/) , from team Rhode Island and Team Puerto Rico. This photo blog show cased the different, yet similar, environments that the two "island" fellowship teams experienced during February residency.
+
+![Image Title](http://cl.ly/Xlp5/Screen%20Shot%202014-09-28%20at%208.45.31%20AM.png)
+
+Read it here on [Tumblr](http://a-tale-of-two-islands.tumblr.com
+)
+
 * Coqui Song
 
 When we came back from residency, we were inspired to share our experience by writing a song.

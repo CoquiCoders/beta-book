@@ -26,6 +26,6 @@ We have been collecting all of CfA appearance in the news.
 [Small Business application](http://www.elnuevodia.com/encaminanproyectotecnologicoparafomentarelempresarismo-1706227.html)
 
 
-
+[Presenting PrimerPeso at CfA Summit 2014](http://www.metro.pr/economia/presentan-en-california-aplicacion-movil-desarollada-en-puerto-rico/pGXnix!e8BOgRBUcTgfI/)
 
 

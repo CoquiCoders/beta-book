@@ -18,7 +18,7 @@ The Community, the Brigade, The people working in the government, the small busi
 **Jose Iguina,** from PRIDCO
 **Francisco Rodriguez Bernier**, from Department of State,
 **Leslie Perez,** Secretary in Economic Development
-**Elisabeth,** Secretary at OGP
+**Elisabeth Reyes,** Secretary at OGP
 **Ramonita & Claudia** from Trade Company
 **Hiram Diaz,** from OAJ
 **Zamia Baerga,** from Caguas
@@ -30,7 +30,18 @@ Natasha Gitany, from Treasury
 **Sheila**
 **Juan Carlos Suarez**, from Economic Development
 **Jorge Marti**, from BDE
-
+**Mirna Comas,** from Department of Agriculture
+**Gabriel Figueroa,** from Department of Agriculture
+**Kayla Barrios** from CCE
+**Dayanira Díaz** from CCE
+**Vilma Yejo** from CCE
+**Zamia Baerga**
+**Maritere Colon,** from Tourism
+**Lizaida Rivera** from Film Comission
+**Carlos Perez **from ADL
+**Luis Carlos** Cruz from OAJ
+**Mario Marazzi** Executive Director at Instituto de Estadisticas de Puerto Rico
+**Luis Castro** from ACG
 
 **Some people from the Private Sector:**
 
@@ -40,6 +51,9 @@ Natasha Gitany, from Treasury
 **Luis Trelles**
 **Alan & Guarien Taveras** from Brands of Puerto Rico
 **Nicolas Prouty** from Putman Bridge
+**Fusion Works**
+**Angel Perez** from Rock Solid
+**Eugenio J. Torres-Oyola** from Ferraiuoli
 
 **Some people from the Brigade Code 4 Puerto Rico**
 
@@ -55,8 +69,22 @@ Natasha Gitany, from Treasury
 
 **Maria Morales **from Destilería Coqui,
 **Arturo Lopez **from Huerto Isleño,
-**Paula** from Atencion Atencion
+**Paula Rivera** from Atencion Atencion
 **Tara Rodriguez** from Departamento de la Comida
+Rebecca Feliciano from Setas of Puerto Rico
+**Hacienda San Pedro**
+**COA**
+**De Hojas**
+**Gustazos**
+**Lab 787**
+**Sana**
+**Sparkative**
+**Casa Protegida Julia de Burgos**
+**Abre Puerto Rico**
+**Tredé**
+**Engine4**
+**Guifre Tort** from Antrocket
+
 
 
 Non-profit

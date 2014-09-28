@@ -8,9 +8,6 @@ ainsley@codeforamerica.org
 **Maksim Pecherskiy** - Developer
 maksim@codeforamerica.org
 
-Team Puerto Rico -
-puertorico@codeforamerica.org
-
 
 **PrimerPeso**
 
