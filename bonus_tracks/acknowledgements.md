@@ -25,7 +25,7 @@ The Community, the Brigade, The people working in the government, the small busi
 Natasha Gitany, from Treasury
 **Ruth Silva and Ricardo Alfaro,** from Fortaleza
 **Andrés Colon, Janet Rios & Alberto Colon** from CIO office
-**Ramphis Castro**, from the Senate
+**[Ramphis Castro](http://coquicoders.org/ramphis-castro-a-dream-hunter-in-the-senate/)**, from the Senate
 **Luis Castro**
 **Sheila**
 **Juan Carlos Suarez**, from Economic Development
@@ -45,11 +45,11 @@ Natasha Gitany, from Treasury
 
 **Some people from the Private Sector:**
 
-**Sofia Stolberg**, from co-working space Piloto151
+**[Sofia Stolberg](http://coquicoders.org/sofia-stolberg-another-entrepreneur-in-san-juan/)**, from co-working space Piloto151
 **Ricardo Burgos**, from Creative Industries
 **Angie & Dana** from Serioulsy Creative
 **Luis Trelles**
-**Alan & Guarien Taveras** from Brands of Puerto Rico
+**Alan & Guarien Taveras** from [Brands of Puerto Rico](http://coquicoders.org/brands-of-puerto-rico/)
 **Nicolas Prouty** from Putman Bridge
 **Fusion Works**
 **Angel Perez** from Rock Solid
@@ -57,7 +57,7 @@ Natasha Gitany, from Treasury
 
 **Some people from the Brigade Code 4 Puerto Rico**
 
-**Imanol Aranzadi**,
+**[Imanol Aranzadi](http://coquicoders.org/imanol-aranzadi-a-real-captain/)**,
 **Stephanie Kruger**,
 **Christian Rodriguez** ,
 **Froilan Irizarry**,
@@ -67,8 +67,8 @@ Natasha Gitany, from Treasury
 
 **Some Business owners**
 
-**Maria Morales **from Destilería Coqui,
-**Arturo Lopez **from Huerto Isleño,
+**[Maria Morales](http://coquicoders.org/business-journey-stories/) **from Destilería Coqui,
+**[Arturo Lopez](http://coquicoders.org/arturo-lopez-hydroponic-lettuce/) **from Huerto Isleño,
 **Paula Rivera** from Atencion Atencion
 **Tara Rodriguez** from Departamento de la Comida
 Rebecca Feliciano from Setas of Puerto Rico
@@ -86,11 +86,12 @@ Rebecca Feliciano from Setas of Puerto Rico
 **Guifre Tort** from Antrocket
 
 
-
 Non-profit
 **Denisee Rodriguez **from Foundation of Puerto Rico
 **Miguel Vacas,** from Grupo Guayacan
 
 
+Special thanks to [Christian Rodriguez](http://coquicoders.org/christian-rodriguez-a-real-contributor/) who was an intern with us for the summer.
 
+Another special thanks to [Zac Townsend](http://coquicoders.org/zachary-townsend/) who mentored us during the Fellowship.
 
