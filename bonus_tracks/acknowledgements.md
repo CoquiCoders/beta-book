@@ -53,12 +53,10 @@ Natasha Gitany, from Treasury
 
 **Some Business owners**
 
-Maria from Destilería Coqui,
-Arturo Lopez from Huerto Isleño,
-Paula from Atencion Atencion
-Tara Rodriguez from Departamento de la Comida
-
-
+**Maria Morales **from Destilería Coqui,
+**Arturo Lopez **from Huerto Isleño,
+**Paula** from Atencion Atencion
+**Tara Rodriguez** from Departamento de la Comida
 
 
 Non-profit

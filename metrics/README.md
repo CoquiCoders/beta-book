@@ -3,90 +3,70 @@
 ## **Citizen**
 
 
-it takes
+In the current context it takes a citizen around:
 
-10 days researching online
-several visits to the government agencies
-several phone calls
+1. 10 days researching online
+2. Several visits to the government agencies
+3. Several phone calls to government agencies
 
-it will take
-1 hour to know which programs are you elegible for from the government of Puerto Rico.
+with no clear results.
 
-it costs
+**With PrimerPeso** it will take the citizen:
 
-CPAs or lawyers services fees
+1. less than 1 hour to know which programs or incentives he/she is elegible for from the government of Puerto Rico.
+
+Nowadays it costs:
+
+1. CPAs or lawyers services fees
 
 
-it will cost
+**With PrimerPeso** it will cost:
 
-0
+0 USD
 
 
 ##**Employee**
 
 
-it takes
+Nowadays an employee spends:
 
-half of their time to answer phone calls from uniformed business owners and run them through checklists
+1. half of her/his time answering phone calls from uniformed business owners to run them through checklists of requirements to filter through their available programs
 
-it will take
+With PrimerPeso an employee will only spend:
 
-less than half of their time: answering phone calls from those not tech-savvy people
+1. less than half of their time answering phone calls from uniformed business owners, specifically the non tech-savvy one.
 
-it costs
+Nowadays it costs:
 
-20 hours a week employee salary
+1. 20 hours/week of an employee salary to run those programs
 
-it will cost
+With PrimerPeso it will only cost:
 
-10 hour a week employee salary
+1. less than 10 hour/week employee salary
 
 ---
 
-**Overall performance:
-**
+##**Overall performance:**
 
 1. We want to increase the number of applications
 
 2. We want to evaluate programas and identify redundancies and duplications
 
-3. We want to find gaps between offer and demand
+3. We want to find gaps between offer and demand by informing the governemnt’s economic development strategies, including which municipalities or industries are being more active in the search phase.
+
 
 At the end we want to promote smart spending by reducing waste and making sur as government we put the money where people need it.
 
 
-paperwork
-steps
-fees
+With the information provided by Primerpeso we can identify similar groups to perform studies:
 
-PrimerPeso also collects metrics on new business development activities to inform the City’s economic development strategies, including which neighborhoods or districts have the most commercial activity and what kinds of businesses are starting
+1. one group that got the incentive
+2. the other group with similar characteristics that got rejected
 
+Evaluate performance of groups in terms of goals and outcomes.
 
-Evaluate redundancies and duplications within existing programs
-Evaluate gaps and opportunities within existing programs
+Did they create more jobs?
+Did they generate more money?
 
-
-Evaluate demand and delivery:
-
-which industries are requests coming from?
-which industries?
-which age groups?
-
-what do you offer?
-
-are there areas not being addressed?
-are areas being over addressed?
-
-identify similar groups and perform study:
-
-one group got the incentive
-the other group got rejected
-
-evaluate performance of groups in terms of goals
-
-did they create more jobs?
-did they generate more money?
-
-CONOCIMIENTO  USO    RELEVANCIA     SATISFACCIÓN      FACILITADORES
 
 
