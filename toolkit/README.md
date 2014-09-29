@@ -6,7 +6,7 @@ Many tools have been key to our process and we want to share with everyone our r
 We made it a priority to use open-source tools.
 
 ###Documentation
-We documented our **[Mid-Year Report**](http://chronicles.coquicoders.org/) with [Gitbook](https://www.gitbook.io/), a free and opensource book editor. We also host our blog **[Coqui Coders**](http://coquicoders.org/) with [Ghost](https://ghost.org/), a free, open-source, simple blogging platform.
+We documented our Mid-YearReport with [Gitbook](https://www.gitbook.io/), a free and opensource book editor. We also host our blog [Coqui Coders](http://coquicoders.org/) with [Ghost](https://ghost.org/), a free, open-source, simple blogging platform.
 
 We used [Slides.com](http://slides.com/) for every presentation we produced.  The Slides editor is available right in your browser. Unlike traditional presentation software, there's no need to download anything.
 

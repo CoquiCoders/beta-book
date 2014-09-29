@@ -91,7 +91,7 @@ Non-profit
 **Miguel Vacas,** from Grupo Guayacan
 
 
-Special thanks to [Christian Rodriguez](http://coquicoders.org/christian-rodriguez-a-real-contributor/) who was an intern with us for the summer.
+Special thanks to **[Christian Rodriguez](http://coquicoders.org/christian-rodriguez-a-real-contributor/)** who was an intern with us for the summer.
 
-Another special thanks to [Zac Townsend](http://coquicoders.org/zachary-townsend/) who mentored us during the Fellowship.
+Another special thanks to **[Zac Townsend](http://coquicoders.org/zachary-townsend/)** who mentored us during the Fellowship.
 
