@@ -24,7 +24,7 @@ We also used [Google Docs](https://docs.google.com/), [Dropbox](https://www.drop
 ###Design
 For the design side we used for the landing page mock-up Sketch and [Bootstrap](http://getbootstrap.com) frameworks and [Less.js](http://lesscss.org/usage) for the front-end UI.
 
-To prototype we used [Photoshop](www.photoshop.com), [Illustrator](http://www.adobe.com/Illustrator), a simple sketchbook and [Webflow](https://webflow.com/)
+To prototype we used [Photoshop](http://www.photoshop.com/), [Illustrator](http://www.adobe.com/Illustrator), a simple sketchbook and [Webflow](https://webflow.com/)
 
 
 ###Research
@@ -37,7 +37,7 @@ We used an audio recorder [Zoom H4](http://www.zoom.co.jp/products/h4n) to recor
 
 We had an old [Polaroid](www.polaroid.com) camera that we used to keep paper photos of Government employees and build an organigram.
 
-We used [Google Spreadsheet](https://docs.google.com/spreadsheet/) to document ideas during the ideation process, together with [Post-its](www.post-it.com), whiteboards and sketchbooks.
+We used [Google Spreadsheet](https://docs.google.com/spreadsheet/) to document ideas during the ideation process, together with [Post-its](http://www.post-it.com/wps/portal/3M/en_US/PostItNA/Home?WT.mc_id=www.Post-it.com), whiteboards and sketchbooks.
 
 
 ###Expenses
