@@ -26,6 +26,8 @@
 * [Toolkit](toolkit/README.md)
 * [Impact](more_user_testing_and_validation_phase/the_impact.md)
 * [Metrics](metrics/README.md)
+* [Who will maintain PrimerPeso?](who_will_handle_it/README.md)
+* [How are we transfering the expertise?](how_are_we_transfering_the_experise/README.md)
 * [Bonus Tracks](bonus_tracks/README.md)
    * [Acknowledgements](bonus_tracks/acknowledgements.md)
    * [In the News](bonus_tracks/in_the_news.md)
