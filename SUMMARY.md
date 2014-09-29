@@ -17,7 +17,7 @@
 * [Mid-year Accomplishments](mid-year_feedback/README.md)
    * [Mid-Year Presentation](new_round_of_testing_and_validation/README.md)
 * [More Results](more_user_testing_and_validation_phase/README.md)
-* [Areas for integration](areas/README.md)
+* [Focus areas](areas/README.md)
    * [Technology](more_user_testing_and_validation_phase/backend.md)
    * [Layout](more_user_testing_and_validation_phase/frontend.md)
    * [Marketing](more_user_testing_and_validation_phase/marketing.md)

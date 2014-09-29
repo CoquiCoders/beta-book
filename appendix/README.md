@@ -4,7 +4,7 @@
 
 When businesses are successful that means jobs, a healthy cash flow in a community, and other fruits of economic growth. Puerto Rico knows this, and legislation at the state and municipal level is aimed at supporting businesses, primarily through the method of **incentives**.
 
-Tax and economic incentives are numerous in Puerto Rico. They are crafted with the advice of economists, business leaders and industry experts with intelligent and clear goals.
+Tax and economic incentives are numerous in Puerto Rico, estimate 300.000 million just available to small business owners. They are crafted with the advice of economists, business leaders and industry experts with intelligent and clear goals.
 
 Unfortunately, incentives are underutilized because they are **not effectively deployed**. In other words - if few are not using them, what good are they doing? **The good intentions of economic incentives often wind up dying on the vine.**
 

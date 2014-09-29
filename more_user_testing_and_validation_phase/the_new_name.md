@@ -12,7 +12,7 @@ In naming an app you have just a few syllables to communicate all the things you
 
 Oh - and the domain name has to be available.
 
-If you’ve been following this blog you may have noticed us calling our app a few different things over the course of the year.
+We have been calling our app a few different things over the course of the year.
 
 There were dozens other proposed names that never saw the light of day. We've tried a lot.
 

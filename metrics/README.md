@@ -12,7 +12,7 @@ with no clear results.
 
 **With PrimerPeso** it will take the citizen:
 
-1. less than 1 hour to know which programs or incentives he/she is elegible for from the government of Puerto Rico.
+1. less than 1 hour to know which programs or incentives he/she is elegible for from the government of Puerto Rico and could submit a request for more information to the several agencies involved with just one click.
 
 Nowadays it costs:
 
@@ -29,11 +29,11 @@ Nowadays it costs:
 
 Nowadays an employee spends:
 
-1. half of her/his time answering phone calls from uniformed business owners to run them through checklists of requirements to filter through their available programs
+1. half of her/his time answering phone calls from uniformed business owners to run them through checklists of requirements. She/He has to check all available programs and recommend based on checklist. This is a manual process that does not have to be manual.
 
 **With PrimerPeso** an employee will only spend:
 
-1. less than half of their time answering phone calls from uniformed business owners, specifically the non tech-savvy one.
+1. less than half of their time answering phone calls from uniformed business owners. It will be  specifically from the non tech-savvy one.
 
 Nowadays it costs:
 
@@ -51,10 +51,8 @@ Nowadays it costs:
 
 2. We want to evaluate programas and identify redundancies and duplications
 
-3. We want to find gaps between offer and demand by informing the governemnt’s economic development strategies, including which municipalities or industries are being more active in the search phase.
-
-
-At the end we want to promote smart spending by reducing waste and making sur as government we put the money where people need it.
+3. We want to find gaps between offer and demand such as which municipalities or industries are being more active in the search phase. The end goal is to inform the governemnt’s economic development performance.
+Stimulate  smart spending by reducing waste and making sur as government we put the money where people need it.
 
 
 With the information provided by Primerpeso we can identify similar groups to perform studies:
