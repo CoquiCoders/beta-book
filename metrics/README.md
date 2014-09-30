@@ -2,7 +2,7 @@
 
 ## **Business owner**
 
-In the current context it takes a citizen around:
+In the current context it takes a business owner around:
 
 1. 10 days researching online
 2. Several visits to the government agencies
@@ -10,7 +10,7 @@ In the current context it takes a citizen around:
 
 with no clear results.
 
-**With PrimerPeso** it will take the citizen:
+**With PrimerPeso** it will take the business owner:
 
 1. less than 1 hour to know which programs or incentives he/she is elegible for from the government of Puerto Rico and could submit a request for more information to the several agencies involved with just one click.
 
@@ -53,7 +53,6 @@ Nowadays it costs:
 
 3. We want to find gaps between offer and demand such as which municipalities or industries are being more active in the search phase. The end goal is to inform the governemnt’s economic development performance.
 Stimulate  smart spending by reducing waste and making sur as government we put the money where people need it.
-
 
 With the information provided by Primerpeso we can identify similar groups to perform studies:
 

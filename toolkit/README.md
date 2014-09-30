@@ -1,7 +1,7 @@
 # Toolkit
 
 
-Many tools have been key to our process and we want to share with everyone our resources.
+Many tools have been key to our process and we want to share our resources with everyone.
 
 We made it a priority to use open-source tools.
 
@@ -12,6 +12,7 @@ We used [Slides.com](http://slides.com/) for every presentation we produced.  Th
 
 ###Development
 For the development of the site we used [node.js](http://nodejs.org/download/). You can read our [Readme](https://github.com/codeforamerica/primerpeso/blob/master/README.md) to check how to install and run the project. [Travis CI](https://travis-ci.org/), a free hosted integration platform, Github to host the application, [Angular.Js](https://angularjs.org/),a javascript framework, [Postgres](http://www.postgresql.org/), an open source database, and [Gulp.Js](http://gulpjs.com/),the streaming build system.
+We use [Mandril](https://www.mandrill.com/) as the transactional email platform.
 
 ###Communication & Sharing
 To communicate with each other and with CfA fellows and staff we used [Slack](https://slack.com/), a real-time messaging, archiving and search for teams.

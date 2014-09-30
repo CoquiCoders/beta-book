@@ -2,7 +2,7 @@
 
 Together with the change in the layout we decided to change the name of the application.
 
-What's in a name? The story behind PrimerPeso
+What's in a name? The story behind **PrimerPeso**
 
 Naming things is hard.
 

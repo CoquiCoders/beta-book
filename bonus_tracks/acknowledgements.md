@@ -3,6 +3,8 @@
 We need to thank a lot of people who made these projects happened.
 The Community, the Brigade, The people working in the government, the small business owners, and many many more...
 
+----
+
 **Some Public Servants:**
 
 **Iván Rios** from Science and Trust, one of the Funders.
@@ -43,6 +45,8 @@ Natasha Gitany, from Treasury
 **Mario Marazzi** Executive Director at Instituto de Estadisticas de Puerto Rico
 **Luis Castro** from ACG
 
+----
+
 **Some people from the Private Sector:**
 
 **[Sofia Stolberg](http://coquicoders.org/sofia-stolberg-another-entrepreneur-in-san-juan/)**, from co-working space Piloto151
@@ -55,6 +59,8 @@ Natasha Gitany, from Treasury
 **Angel Perez** from Rock Solid
 **Eugenio J. Torres-Oyola** from Ferraiuoli
 
+----
+
 **Some people from the Brigade Code 4 Puerto Rico**
 
 **[Imanol Aranzadi](http://coquicoders.org/imanol-aranzadi-a-real-captain/)**,
@@ -64,6 +70,8 @@ Natasha Gitany, from Treasury
 **Sasha Mendes**,
 **Roberto**
 **Jon Mangual**
+
+---
 
 **Some Business owners**
 
@@ -85,13 +93,16 @@ Rebecca Feliciano from Setas of Puerto Rico
 **Engine4**
 **Guifre Tort** from Antrocket
 
+----
 
-Non-profit
+**Some people from the non-profit sector**
+
 **Denisee Rodriguez **from Foundation of Puerto Rico
 **Miguel Vacas,** from Grupo Guayacan
 
+---
 
-Special thanks to **[Christian Rodriguez](http://coquicoders.org/christian-rodriguez-a-real-contributor/)** who was an intern with us for the summer.
+Special thanks to **[Christian Rodriguez](http://coquicoders.org/christian-rodriguez-a-real-contributor/)** who was an intern with us for the summer in partnership with Code2040.
 
 Another special thanks to **[Zac Townsend](http://coquicoders.org/zachary-townsend/)** who mentored us during the Fellowship.
 
