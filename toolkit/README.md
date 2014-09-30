@@ -13,6 +13,7 @@ We used [Slides.com](http://slides.com/) for every presentation we produced.  Th
 ###Development
 For the development of the site we used [node.js](http://nodejs.org/download/). You can read our [Readme](https://github.com/codeforamerica/primerpeso/blob/master/README.md) to check how to install and run the project. [Travis CI](https://travis-ci.org/), a free hosted integration platform, Github to host the application, [Angular.Js](https://angularjs.org/),a javascript framework, [Postgres](http://www.postgresql.org/), an open source database, and [Gulp.Js](http://gulpjs.com/),the streaming build system.
 We use [Mandril](https://www.mandrill.com/) as the transactional email platform.
+We us [Redis](http://redis.io/)for advanced key-value cache and store.
 
 ###Communication & Sharing
 To communicate with each other and with CfA fellows and staff we used [Slack](https://slack.com/), a real-time messaging, archiving and search for teams.
@@ -36,7 +37,7 @@ The video camera from the iphone to take photos of user testing sessions, worksh
 
 We used an audio recorder [Zoom H4](http://www.zoom.co.jp/products/h4n) to record all interviews and keep the audio for further analysis.
 
-We had an old [Polaroid](www.polaroid.com) camera that we used to keep paper photos of Government employees and build an organigram.
+We had an old [Polaroid](http://www.polaroid.com/) camera that we used to keep paper photos of Government employees and build an organigram.
 
 We used [Google Spreadsheet](https://docs.google.com/spreadsheet/) to document ideas during the ideation process, together with [Post-its](http://www.post-it.com/wps/portal/3M/en_US/PostItNA/Home?WT.mc_id=www.Post-it.com), whiteboards and sketchbooks.
 
