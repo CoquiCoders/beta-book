@@ -5,7 +5,7 @@
 From our 10 interviews we validated our hypotheses about the issues that BizWallet would address and the users it would serve. We got great feedback and a great reception to the product.
 
 
-![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/IMG_4040.JPG)
+![Image Title](http://cl.ly/WIKX/IMG_4040.JPG)
 
 **Many testers were delighted** at the experience and the prospect of having a single place where they could find financial and support resources for their small businesses.
 
