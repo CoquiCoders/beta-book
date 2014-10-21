@@ -1,33 +1,51 @@
 # Metrics
 
-## **Business owner**
+# **Business owner**
+
+##  **Time **
+
+
 
 In the current context it takes a business owner around:
 
-1. 10 days researching online
-2. Several visits to the government agencies
-3. Several phone calls to government agencies
+| Current Context | |
+| -- | -- |
+| 10 days | reseraching online |
+| 3 or more visits | agencies buildings |
+| several phone calls| to government agencies |
+
+
 
 with no clear results.
 
 **With PrimerPeso** it will take the business owner:
 
-1. less than 1 hour to know which programs or incentives he/she is elegible for from the government of Puerto Rico and could submit a request for more information to the several agencies involved with just one click.
 
-Nowadays it costs:
+| With PrimerPeso |  |
+| -- | -- |
+| Less than 1 hour | researching online |
+| 0 visits | agencies buildings |
+| 0 phone calls | to government agencies |
 
-1. CPAs or lawyers services fees
-
-
-**With PrimerPeso** it will cost:
-
-2. 0 USD
+In less than 1 hour the business owner knows which programs or incentives he/she is elegible for from the government of Puerto Rico.
 
 
-##**Employee**
+
+## **Costs**
 
 
-Nowadays an employee spends:
+
+| Nowadays | With Primerpeso |
+| -- | -- |
+| CPA's services | 0 usd |
+
+
+---------
+
+#**Employee**
+
+
+**Nowadays** an employee spends:
 
 1. half of her/his time answering phone calls from uniformed business owners to run them through checklists of requirements. She/He has to check all available programs and recommend based on checklist. This is a manual process that does not have to be manual.
 
@@ -35,7 +53,7 @@ Nowadays an employee spends:
 
 1. less than half of their time answering phone calls from uniformed business owners. It will be  specifically from the non tech-savvy one.
 
-Nowadays it costs:
+**Nowadays** it costs:
 
 1. 20 hours/week of an employee salary to run those programs
 
