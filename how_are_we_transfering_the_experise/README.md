@@ -33,6 +33,6 @@ We are planning a series of workshops to the Government employees to transfer th
 | Why | We want to teach the agency about Google Analytics. Google Analytics shows you the full customer picture across the website. Google analytics will help define if we are approaching the intended audience and learn more about gaps and opportunities. |
 |Who | Trade Company and office of CIO employees. |
 |Where| Puerto Rico |
-| 0:7 | 1:7 |
+
 
 
