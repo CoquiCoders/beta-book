@@ -22,6 +22,7 @@
    * [Layout](more_user_testing_and_validation_phase/frontend.md)
    * [Marketing](more_user_testing_and_validation_phase/marketing.md)
    * [Branding](more_user_testing_and_validation_phase/the_new_name.md)
+* [Design Style Guide](design_style_guide/README.md)
 * [Summit](summit/README.md)
 * [Toolkit](toolkit/README.md)
 * [Impact](more_user_testing_and_validation_phase/the_impact.md)
