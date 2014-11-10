@@ -6,14 +6,13 @@
 
 
 
-In the current context it takes a business owner around:
+In the current context to apply for an incentive takes a business owner around:
 
 | Current Context | |
 | -- | -- |
 | 10 days | reseraching online |
 | 3 or more visits | agencies buildings |
 | several phone calls| to government agencies |
-
 
 
 with no clear results.

@@ -37,7 +37,7 @@ The video camera from the iphone to take photos of user testing sessions, worksh
 
 We used an audio recorder [Zoom H4](http://www.zoom.co.jp/products/h4n) to record all interviews and keep the audio for further analysis.
 
-We had an old [Polaroid](http://www.polaroid.com/) camera that we used to keep paper photos of Government employees and build an organigram.
+We had an old [Polaroid](http://www.polaroid.com/) camera that we used to keep paper photos of Government employees and build an organizational chart.
 
 We used [Google Spreadsheet](https://docs.google.com/spreadsheet/) to document ideas during the ideation process, together with [Post-its](http://www.post-it.com/wps/portal/3M/en_US/PostItNA/Home?WT.mc_id=www.Post-it.com), whiteboards and sketchbooks.
 

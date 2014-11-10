@@ -22,3 +22,10 @@ This is Denisse pitching a potential trustee.
 This is Tara Rodriguez who will be one of the first three Kiva trustees in Puerto Rico. Tara runs "Departamento de la Comida", an organic food hub. She has regular contact with many farmers who may soon benefit from access to microloans via Kiva.
 
 
+Here are some of the news in the local press:
+
+[Kiva in Puerto Rico](http://www.noticel.com/noticia/168408/orientaran-sobre-novel-plataforma-de-financiamiento-microempresarial.html)
+
+[World known microfinance platform in Puerto Rico](http://www.woletv.net/plataforma-mundialmente-reconocida-de-financiamiento-para-microempresarios-se-establece-en-puerto-rico-con-prestamos-a-0-de-interes/)
+
+[Known micro-loan platform launching in Puerto Rico](http://www.elorientalpr.net/?p=4353)

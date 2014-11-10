@@ -8,6 +8,6 @@ The **back-end**. We want to learn about the current government back-end systems
 The **layout**. We want to integrate our application within the government websites. This means either adding an iframe or banners.
 
 
-The **marketing & branding**. We did a soft launch in August 28th in an event where Giancarlo Gonzalez, the CIO of the Governor, presented the results of the Tech Summit he hosted in June and introduce PrimerPeso to the audience.
+The **marketing & branding**. We did a soft launch in August 28th in an event where Giancarlo Gonzalez, the CIO of the Governor, presented the results of the Tech Summit he hosted in June and introduce PrimerPeso to the audience. The launch of the application will be held at the end of Novermber.
 
 
