@@ -18,11 +18,9 @@ Clara spoke about Lean Startup Methodologies and her experience in the startup w
 
 We have participated in and helped with several events put on by the Brigade.
 
-![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/IMG_0045.JPG)
-
 The first was **CodeAcross** on **February 22 - 23**. Over 80 people came during the course of the weekend which culminated with a hack day in Puerto Rico's Senate.
 
-![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/IMG_2672.JPG)
+![Image Title](http://cl.ly/WIyG/IMG_2672.JPG)
 
 In April, we hosted a simultaneous **UnHackathon for Puerto Rico** in San Francisco and San Juan with 35 participants coming together to pitch apps that addressed issues on the island.
 

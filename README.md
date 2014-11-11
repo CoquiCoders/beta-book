@@ -7,12 +7,12 @@ In our time there, we have found that although the incentives themselves were ap
 **Entrepreneurs and small business owners that don’t know what support is available to them to start, or grow their business in Puerto Rico.**
 
 
-Around these pain points we built first **Negocio123** as a way-finding tool for the process of opening a business and then our main product **BizWallet** as a way to help our users find, identify, and apply for incentives and resources that they are qualified for and that will help them.
+Around these pain points we built first **Negocio123** as a way-finding tool for the process of opening a business and then our main product **PrimerPeso** as a way to help our users find, identify, and apply for incentives and resources that they are qualified for and that will help them.
 
 
 As we user test, we are hearing great things about what these products can do for entrepreneurs on the island:
 
 **
-"BizWallet is a very friendly application and it provides you with what you need to get finance (…) people don’t know about what is available (…)I wish it would have existed three years ago” Arturo Lopez, founder of Huerto isleño.**
+"PrimerPeso is a very friendly application and it provides you with what you need to get finance (…) people don’t know about what is available (…)I wish it would have existed three years ago” Arturo Lopez, founder of Huerto isleño.**
 
 We are excited to continue to work toward meeting this challenge and helping these people.

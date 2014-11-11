@@ -13,7 +13,7 @@ As we honed our problem statement, we developed a **user persona** to focus our 
 
 ###This is Mario's journey to starting a business:
 
-![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/unnamed%20copy%203.png)
+![Image Title](http://cl.ly/WIjw/unnamed.png)
 
 
 ###Main challenges (as told by our users):

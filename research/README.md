@@ -26,7 +26,3 @@ However, one thing that made it all easier was the openess and willingness of th
 
 **Many challenges, no regrets.**
 
----
-
-
-![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/unnamed%20copy.png)
