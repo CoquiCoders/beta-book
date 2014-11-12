@@ -5,7 +5,7 @@ We hosted a [workshop](http://coquicoders.org/the-business-journeys/) with [Bran
 Each of these organizations is contributing in different ways to the creation and support of an ecosystem for small business owners.
 
 
-![Image Title](http://cl.ly/X8a5/IMG_0268.jpg)
+![Workshop](http://cl.ly/X8a5/IMG_0268.jpg)
 
 ### Photoshooting with local Brand for Landing page
 
