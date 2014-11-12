@@ -1,12 +1,12 @@
 # How are we transfering the expertise?
 
-We performed a series of workshops to the Government employees to transfer the knowledge.
+We lead a series of workshops to the Government employees to transfer the knowledge.
 
 
 | Workshop | Behind the scenes of PrimerPeso - Tech |
 | -- | -- |
 | When | Novermber 5th |
-| How |Supported by the tech documentation we  showcased the application and discussed the technology  behind each decision. We provided tools to empower the user in node.js, less, postgres and mandril.|
+| How |Supported by the technical documentation we  showcased the application and discussed the technology  behind each decision. We provided tools to empower the user in node.js, less, postgres and mandril.|
 | Why | The tech team needs to learn why and how to maintain the application |
 | Who | CIO's office employees and Trade Company vendor |
 |Where| Puerto Rico |

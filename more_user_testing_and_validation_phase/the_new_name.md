@@ -1,10 +1,12 @@
 # Branding
 
-Together with the change in the layout we decided to change the name of the application.
+When we were making the changes for the trip back and to gather final validations, we knew it was time to choose a name. We had been using temporary names that worked (BizWallet) but none of us ever meant them to be permanent.
 
-What's in a name? The story behind **PrimerPeso**
+Here's a story about how we arrived at a name we all loved:
 
-Naming things is hard.
+# What's in a name? The story behind **PrimerPeso:**
+
+### Naming things is hard.
 
 Giving a name to the project you’ve been working hard on all year carries extra weight.
 

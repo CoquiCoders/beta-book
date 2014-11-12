@@ -1,4 +1,4 @@
-# The technology
+# The Technology
 
 PrimerPeso is hosted in the Code for America github account: https://github.com/codeforamerica/primerpeso but soon will be hosted in the Puerto Rico's Github account.
 

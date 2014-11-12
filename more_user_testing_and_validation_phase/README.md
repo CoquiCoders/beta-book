@@ -7,7 +7,7 @@ With this in mind we planned a two week trip to San Juan at the beginning of Aug
 During the trip to the island we accomplished the following:
 
 1. We performed further in-depth user testing with small business owners.
-2. We expaded our outreach to new agencies and successfully brought six new agencies onboard: The Department of Agriculture, The Organization of Youth Issues, The Administration of Labor Development, The Film Commission, The Office of Tourism and The City of San Juan.
+2. We successfully brought six new agencies onboard: The Department of Agriculture, The Organization of Youth Issues, The Administration of Labor Development, The Film Commission, The Office of Tourism and The City of San Juan.
 3. We held a kickoff meeting with the agencies previously brought onboard.
 4. We executed a [Workshop](http://coquicoders.org/the-business-journeys/) with Brands of Puerto Rico to gather insights about the the different businesses journeys and how businesses secure funding.
 
@@ -15,7 +15,7 @@ During the trip to the island we accomplished the following:
 6. Met and pitched our application to small businesses organizations and associations such as The Chamber of Commerce, Hecho en Puerto Rico and The Association of CPAs.
 7. Scheduled the launch of Kiva in Puerto Rico
 8. Defined the integration of our application with CRMs and other systems in use by other agencies.
-9. Strategize with Giancarlo, CIO of Puerto Rico, on the application launch in terms of branding and marketing.
+9. Strategized with Giancarlo, CIO of Puerto Rico, on the application launch in terms of branding and marketing.
 10. Tested and validated the application's new name: PrimerPeso (results: people like it and it works!)
 
 ![BizWallet](http://cl.ly/XBXX/IMG_0146.jpg)

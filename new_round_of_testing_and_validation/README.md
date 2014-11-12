@@ -1,6 +1,6 @@
 # BETA
 
-BETA was held June 20th, and was a mid-year event to share out where we were with our projects and get feedback.
+BETA was held June 20th, and was an opportunity to share out where we were with our projects and get feedback from the Code for America community and family.
 
 Watch our presentation:
 

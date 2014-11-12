@@ -2,11 +2,11 @@
 
 
 
-We have been collecting all of CfA appearance in the news.
+We have been collecting all of CfA Team Puerto Rico's appearances in the news.
 
 [Tech Summit Puerto Rico 2014](http://cl.ly/image/2d1i2d3S3247/Screen%20Shot%202014-06-14%20at%2012.20.02%20PM.png)
 
-[Unhackathon](http://www.elnuevodia.com/hackathonenpapelmananaensagrado-1760244.html)
+[UnHackathon](http://www.elnuevodia.com/hackathonenpapelmananaensagrado-1760244.html)
 
 [Code 4 Puerto Rico](http://noticel.com/noticia/159452/avanza-la-busqueda-de-soluciones-tecnologicas-para-problemas-sociales.html)
 

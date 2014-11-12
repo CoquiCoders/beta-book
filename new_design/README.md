@@ -1,11 +1,10 @@
 # New Design
 
-We decided to change quite a bit the layout because, on one hand, we were not satisfied and on the other, it was not telling the right story or engaging the audience.
+We decided to the layout because it was not telling the right story or engaging the audience.
 We decided to try something new and test it during our trip to the island.
 
 This was the old landing page:
 ![Image Title](http://cl.ly/XC6X/landing.jpg)
-
 
 We then built a landing page that we liked but was not addressing or engaging the Puertoricans. We received some comments on how it felt like an American Business Owner in contrast to a puertorican.
 

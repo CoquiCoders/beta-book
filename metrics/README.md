@@ -1,21 +1,22 @@
 # Metrics
 
+One way for us to measure our effectiveness is looking at the existing amount of time currently spent by the users on either side of the problem space and then measuring the amount of time saved by using PrimerPeso.
+
 # **Business owner**
 
 ##  **Time **
 
 
-
-In the current context to apply for an incentive takes a business owner around:
+This is the current timeline for a business owner to apply for incentives:
 
 | Current Context | |
 | -- | -- |
-| 10 days | reseraching online |
+| 10 days | researching online |
 | 3 or more visits | agencies buildings |
 | several phone calls| to government agencies |
 
 
-with no clear results.
+And at the end of this there are no clear results.
 
 **With PrimerPeso** it will take the business owner:
 
@@ -32,11 +33,11 @@ In less than 1 hour the business owner knows which programs or incentives he/she
 
 ## **Costs**
 
+We also know that because of the existing state of information and processes - confusing and tangled - business owners will spend money to have a CPA guide them through the process. PrimerPeso was designed with these people in mind, because you shouldn't need to hire someone to navigate public information for you.
 
-
-| Nowadays | With Primerpeso |
+| Currently | With Primerpeso |
 | -- | -- |
-| CPA's services | 0 usd |
+| $ CPA's services | 0 usd |
 
 
 ---------
@@ -46,7 +47,7 @@ In less than 1 hour the business owner knows which programs or incentives he/she
 
 **Nowadays** an employee spends:
 
-1. half of her/his time answering phone calls from uniformed business owners to run them through checklists of requirements. She/He has to check all available programs and recommend based on checklist. This is a manual process that does not have to be manual.
+1. Half of her/his time answering phone calls from uniformed business owners to run them through checklists of requirements. She/He has to check all available programs and recommend based on checklist. This is a manual process that does not have to be manual.
 
 **With PrimerPeso** an employee will only spend:
 
@@ -64,17 +65,17 @@ In less than 1 hour the business owner knows which programs or incentives he/she
 
 ##**Overall performance:**
 
-1. We want to increase the number of applications
+1. We want to increase the number of applications for government incentive programs.
 
-2. We want to evaluate programas and identify redundancies and duplications
+2. We want to evaluate programs and identify redundancies and duplications so that the government can make more efficient decisions.
 
-3. We want to find gaps between offer and demand such as which municipalities or industries are being more active in the search phase. The end goal is to inform the governemnt’s economic development performance.
+3. We want to find gaps between offer and demand such as which municipalities or industries are being more active in the search phase. The end goal is to inform the government’s economic development performance.
 Stimulate  smart spending by reducing waste and making sur as government we put the money where people need it.
 
 With the information provided by Primerpeso we can identify similar groups to perform studies:
 
-1. one group that got the incentive
-2. the other group with similar characteristics that got rejected
+1. One group that got the incentive
+2. The other group with similar characteristics that got rejected
 
 Evaluate performance of groups in terms of goals and outcomes.
 

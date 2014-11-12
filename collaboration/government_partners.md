@@ -1,13 +1,13 @@
 # Aligning with Government Goals
 
-Outside of our project's goals, our priority is to make sure that this fits in and works with the overall Economic Development agenda for Puerto Rico.
+Outside of our project's goals, our priority is to make sure that this works with the overall Economic Development agenda for Puerto Rico.
 
 This means incorporating our solution into the government's **one-stop-shop initiative**
 
 ![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/slides_One_Stop_Shoppe.png)
 
 
-We understand that the government is planning to make one place for entrepreneurs to be able to sign on and access their information (**single sign-on**) and then expedite the business permitting process to be only **24 hours**.
+We understand that the government is planning to make a single place for entrepreneurs to be able to sign on and access their information (**single sign-on**) and then expedite the business permitting process to be only **24 hours**.
 
 With our app we then help them **find resources**, and assist with the **application process**. After applying the government will be responsible for making sure that **incentives are distributed** in a timely manner.
 
