@@ -1,6 +1,6 @@
 ![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/Unknown-Territory.png)
 
-The typical Code for America model is working with a city, but we have had the privilege and challenge of working with CfA’s first **territory**. This is a large context to understand. Economic Development was our area and Puerto Rico has **15% unemployment** and a strong trend of **young, bright minds leaving** for the mainland but **over 50 incentives** (further reading on incentives [here](/Appendix/README.html) to try to encourage business owners and entrepreneurs to **stay, invest, and grow in Puerto Rico.**
+The typical Code for America model is working with a city, but we have had the privilege and challenge of working with CfA’s first **territory**. This is a large context to understand. Economic Development was our area and Puerto Rico has **15% unemployment** and a strong trend of **young, bright minds leaving** for the mainland but **over 50 incentives** (further reading on incentives [here](/Appendix/README.html)) to try to encourage business owners and entrepreneurs to **stay, invest, and grow in Puerto Rico.**
 
 In our time there, we have found that although the incentives themselves were appealing, many people were **under-informed and/or confused** about taking advantage of them. We concluded that our product should serve the following users:
 
