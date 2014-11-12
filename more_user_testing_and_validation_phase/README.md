@@ -34,7 +34,7 @@ A diagram detailing our CRM system integration
 Discussion about the soft-launch plan for PrimerPeso
 
 ![Step Definition](http://cl.ly/XAm5/IMG_0240.jpg)
-Worksheet to define our next-steps toward launch
+Worksheet to define our next-steps towards launch
 
 
 
