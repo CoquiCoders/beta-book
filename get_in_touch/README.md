@@ -9,7 +9,7 @@ ainsley@codeforamerica.org
 maksim@codeforamerica.org
 
 
-**PrimerPeso**
+Also, check our **[Blog](https://coquicoders.org)**
 
 
 ![Image Title](http://cl.ly/XljC/primerpeso.jpg)
