@@ -1,6 +1,6 @@
 # New Design
 
-We decided to the layout because it was not telling the right story or engaging the audience.
+We decided to change the layout because it was not telling the right story or engaging the audience.
 We decided to try something new and test it during our trip to the island.
 
 This was the old landing page:
