@@ -29,3 +29,10 @@ We have been collecting all of CfA Team Puerto Rico's appearances in the news.
 [Presenting PrimerPeso at CfA Summit 2014](http://www.metro.pr/economia/presentan-en-california-aplicacion-movil-desarollada-en-puerto-rico/pGXnix!e8BOgRBUcTgfI/)
 
 
+[Launch PrimerPeso](- http://www.elnuevodia.com/cientosdejovenesbuscanoportunidadesparaestablecersusnegocios-1897368.html)
+
+[PrimerPeso in the news](http://www.elnuevodia.com/portalparainformarsobreincentivosaemprendedoresenpuertorico-1897342.html)
+
+[PrimerPeso - Launch]( http://www.metro.pr/plus/presentan-herramienta-tecnologica-para-las-pymes/pGXnkv!zeewqTpi9kzBE/)
+
+[Fostering Entrepreneurship](http://www.indicepr.com/noticias/2014/11/22/news/32019/jovenes-se-educan-en-desarrollo-empresarial/)
