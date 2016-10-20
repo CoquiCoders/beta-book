@@ -1,18 +1,29 @@
-# Business Journey Stories
 
-The stories we heard about some of the struggles of opening a business in Puerto Rico were so incredible that we wanted the business owners to tell it themselves.
+# Building our User
 
-Meet **Maria and Hector**, from Destilería Coqui, a local pitorro (moonshine) distillery.
-
-<!--<iframe src="//player.vimeo.com/video/99068724" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
-<a href="https://vimeo.com/99068724" target="_blank"><img src="https://dl.dropboxusercontent.com/u/7894148/Chronicles/479995146_640.jpg"/></a> 
+As we honed our problem statement, we developed a **user persona** to focus our decision making about the product we would build.
 
 
-Meet **Arturo Lopez**, from Huerto Isleño, a local hydroponic lettuce microfarm.
+###This is Mario:
 
 
-<!--<iframe src="//player.vimeo.com/video/98038700" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+![Image Title](https://dl.dropboxusercontent.com/u/7894148/Chronicles/mario-persona.jpg)
 
-<a href="https://vimeo.com/98038700" target="_blank"><img src="https://dl.dropboxusercontent.com/u/7894148/Chronicles/478665634_640.jpg"/></a>
+---
+
+###This is Mario's journey to starting a business:
+
+![Image Title](http://cl.ly/WIjw/unnamed.png)
+
+
+###Main challenges (as told by our users):
+
+**"I could not borrow money from the bank because MY credit was really bad"**
+
+
+**"One of the things I know based on my experience is that you have to be properly capitalized. It means you have to have enough money to start"**
+
+
+**"I didn't have the time to look for incentives and I knew it was going to be all this paperwork to file and I didnt have numbers to back it up."**
+
 
